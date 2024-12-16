@@ -1,1 +1,1 @@
-A Selection of basic Six Sigma Tools in Python
+A selection of basic Six Sigma and data analyst tools in Python
