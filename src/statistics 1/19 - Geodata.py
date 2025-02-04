@@ -22,23 +22,38 @@ df['Latitude'], df['Longitude'] = zip(*df['Geolocation'].map(extract_coordinates
 # Filter valid locations
 valid_locations = df.dropna(subset=['Latitude', 'Longitude'])
 
-# Group by location and aggregate employee names
-location_employee_data = valid_locations.groupby(['Latitude', 'Longitude']).agg({
-    'Name': lambda x: ', '.join(x)
-}).reset_index()
-
 # Create a folium map centered on a global view
-map_center = [40.71, -74.01]
-map_folium = folium.Map(location=map_center, zoom_start=5)
+map_center = [40.0, -20.0]
+map_folium = folium.Map(location=map_center, zoom_start=2)
 
-# Add a marker cluster to the map
+# Add clustered markers for employee locations
 marker_cluster = MarkerCluster().add_to(map_folium)
 
-# Add markers for each location with the employee count and names
-for _, row in location_employee_data.iterrows():
+for _, row in valid_locations.iterrows():
+    location = [row['Latitude'], row['Longitude']]
+    popup_info = f"""
+    <b>Name:</b> {row['Name']}<br>
+    <b>State Code:</b> {row['State Code'] or row['Country']}<br>
+    <b>Country:</b> {row['Country']}
+    """
+    
+    # Add circular marker with popup
+    folium.Circle(
+        location=location,
+        radius=50000,  # Radius in meters
+        color="blue" if row['State Code'] else "green",
+        fill=True,
+        fill_color="blue" if row['State Code'] else "green",
+        fill_opacity=0.5,
+        tooltip="Click for more info",
+        popup=folium.Popup(popup_info, max_width=300)
+    ).add_to(map_folium)
+    
+    # Add markers to the cluster
     folium.Marker(
-        location=[row['Latitude'], row['Longitude']],
-        popup=f"Employees: {len(row['Name'].split(', '))}<br>Names: {row['Name']}",
+        location=location,
+        icon=folium.Icon(color="red" if row['State Code'] else "green"),
+        popup=folium.Popup(popup_info, max_width=300)
     ).add_to(marker_cluster)
 
 # Save the map to an HTML file

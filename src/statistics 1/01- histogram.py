@@ -6,7 +6,8 @@ import matplotlib.pyplot as plt  # For creating plots
 # Set the working directory to the location of the script
 # Assuming the dataset is located in a 'data' folder two levels up from this script
 # This ensures portability across different environments
-data_folder = os.path.join(os.path.dirname(__file__), '..', '..', 'data')  # Navigate to the data folder
+data_folder = os.path.join(os.path.dirname(__file__),
+                            '..', '..', 'data')  # Navigate to the data folder
 data_file = os.path.join(data_folder, 'CTQ2-1.CSV')  # Full path to the CSV file
 
 # Load the dataset
@@ -27,7 +28,7 @@ for y_col in dataset.columns[2:5]:  # Iterate through the specified columns
     plt.title(f"Histogram of {y_col}")  # Set the title of the plot dynamically
     plt.xlabel("Wait Time")  # Label the x-axis
     plt.ylabel("Density")  # Label the y-axis
-    plt.axvline(x=20, color='red', linestyle='--', linewidth=2, label='Target = 20')  
+    plt.axvline(x=20, color='red', linestyle='--', linewidth=2, label='Target = 20')
     # Add a vertical line at x=20 (target value) for reference
     plt.legend()  # Add a legend to the plot
     plt.show()  # Display the plot
@@ -44,7 +45,7 @@ for idx, y_col in enumerate(dataset.columns[2:5], start=1):  # Loop with index f
         density=True  # Normalize for density
     )
     plt.title(f"Histogram of {y_col}")  # Dynamic title for each plot
-    plt.axvline(x=20, color='red', linestyle='--', linewidth=2, label='Target = 20')  
+    plt.axvline(x=20, color='red', linestyle='--', linewidth=2, label='Target = 20')
     # Add the same reference line
     plt.legend()  # Add a legend for each subplot
     plt.tight_layout()  # Adjust layout to prevent overlap of subplots
