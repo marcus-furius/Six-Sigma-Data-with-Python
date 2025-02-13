@@ -1,0 +1,1050 @@
+,name,short_description,u_business_impact,operational_status,install_status,owned_by,managed_by,support_group,assignment_group,u_gxp1,u_sox1,manufacturer,u_environment,comments
+4,2DGC,2DGC instrument based in B100 lab at KSP,Low,Operational,Installed,Sujira Hossain,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Markes International,Prod,
+6,7Zip,7zip tool (File compression / uncompression) ,Low,Operational,Installed,Rob Rhoads,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,No,No,Igor Pavlov,Prod,Reached Out 9/17
+8,ACD Method Selection,"ACD/Method Selection Suite is your software assistant for LC and GC method development. When you want to develop methods using Quality by Design (QbD) principles, and make every experiment count
+
+License renewal :  3-Aug-25
+
+License Key: https://jazzpharma.sharepoint.com/:u:/r/sites/RNCD-ApplicationManagement/Shared%20Documents/General/License%20Files/License%20files/New%20ACD%20Method%20Selection%20Subscription%20Information.msg?csf=1&web=1&e=fhcfgG
+",Medium,Operational,Installed,Dominika Knych,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,ACD Labs,Prod,Reached Out 9/12
+9,ACD NMR,"The ACD/NMR Workbook Suite is a comprehensive software application designed for Nuclear Magnetic Resonance (NMR) data analysis and structure verification.
+
+License renewal : 3-Aug-25
+
+License Key: https://jazzpharma.sharepoint.com/:u:/r/sites/RNCD-ApplicationManagement/Shared%20Documents/General/License%20Files/License%20files/New%20ACDLabs%20NMR%20Software%20License.msg?csf=1&web=1&e=ddb9ng
+",Medium,Operational,Installed,Dominika Knych,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,ACD Labs,Prod,Reached Out 9/12
+10,ACD Package,"ChemSketch , Percepta , Spectrus
+License Renewal- 3-August-2025
+Recent License Key location- https://jazzpharma.sharepoint.com/:t:/r/sites/RNCD-ApplicationManagement/Shared%20Documents/General/License%20Files/License%20files/ACD%20%20Package%20(ChemSketch%20,%20Percepta%20,%20Spectrus).txt?csf=1&web=1&e=W7qClo",Medium,Operational,Installed,Antoine Millet,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,ACD Labs,Prod,Reached Out 9/12
+11,ACE (Agilent Compliance Engine),Agilent Automated Compliance Engine software which is used for paperless instrument qualification and reporting,Low,Operational,Installed,Andy Bracking,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Agilent Ltd.,Prod,
+12,ACG Version 3.8 [ACG-PCS-174],"ERP system
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Ruggero Sassi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,IBM,Prod,
+13,Acquia,Web hosting platform,High,Operational,Installed,Kenny Low,Kenny Low,T2_US_Application_Support_SN,T2_US_Application_Support_SN,No,No,Acquia,Prod,
+15,Active Directory - gwpharm.com,Active directory is a Microsoft product which acts as a secure central repository for usernames and passwords that allows for users to authenticate into Jazz's network (and associated systems and computer assets). It allows for all systems to work together.,Critical,Operational,Installed,Bill Shieh,Alan Bunn,Security Risk and Compliance,Security Risk and Compliance,No,No,Microsoft,Prod,
+16,Active Directory - IDMZMFG.NET,Manufacturing DMZ domain,High,Operational,Installed,Bill Shieh,Alan Bunn,Security Risk and Compliance,Security Risk and Compliance,No,No,Microsoft Corporation,Prod,
+17,Active Directory - JazzPharma,Active directory is a Microsoft product which acts as a secure central repository for usernames and passwords that allows for users to authenticate into Jazz's network (and associated systems and computer assets). It allows for all systems to work together.,High,Operational,Installed,Bill Shieh,Alan Bunn,Security Risk and Compliance,Security Risk and Compliance,No,No,Microsoft,Prod,Reached Out 9/3
+18,Active Directory - MFG.NET,KSP Manufacturing Domain,High,Operational,Installed,Bill Shieh,Alan Bunn,Security Risk and Compliance,Security Risk and Compliance,No,No,Microsoft Corporation,Prod,
+19,Active Directory - MFGDMZ.NET,MFG DMZ Active Directory Domain,Critical,Operational,Installed,Bill Shieh,Alan Bunn,Security Risk and Compliance,Security Risk and Compliance,No,No,Microsoft Corporation,Prod,
+20,Active Directory - VGMFG.NET,Villa Guardia Manufacturing Active Directory Domain,Critical,Operational,Installed,Bill Shieh,Alan Bunn,Security Risk and Compliance,Security Risk and Compliance,No,No,Microsoft Corporation,Prod,Reached Out 9/3
+22,AD-Prod,Active directory is a Microsoft product which acts as a secure central repository for usernames and passwords that allows for users to authenticate into Jazz's network (and associated systems and computer assets). It allows for all systems to work together.,Critical,Operational,Installed,Bill Shieh,Alan Bunn,Security Risk and Compliance,Security Risk and Compliance,No,No,Microsoft,Prod,Reached Out 10/28
+24,Adaptive,"Financial Planning; Financial Consolidation & Reporting
+Integration (incoming data): GL balances brought in hourly from all instances of NAV via a data agent installed on CAM-ACM-1. SQL Server account svc.adaptive has rights to specific tables in each NAV company. Integration has been active since approx July 2019. Originally built by Intuitive Tek but now managed internally.
+Integration (outgoing data): Integration being built by Ireland-based Miagen to pull data from Adaptive and ultimately drop a file on a Jazz server via Boomi and MFT. Scheduled interval expected to be hourly. Go-live date expected to be early June 2021. 
+
+Assigned ownership to Adrian Rodriguez as Adaptive is to be decommissioning it - Phil Starling.",High,Operational,Installed,Holly Buddle,Adrian Rodriguez,T2_Finance_Support_SN,T2_IS_Corporate_BPS_SN,No,No,Adaptive,Prod,
+26,ADAudit-Prod,Used to collect audit logs from all AD servers for analysis (for investigation) and alerts (for threats).,Low,Operational,Installed,Bill Shieh,Alan Bunn,Security Risk and Compliance,Security Risk and Compliance,No,No,Manage Engine,Prod,Reached Out 10/28
+27,ADMET Package,"Predictor Module/ Modeler/AIDD/API access
+
+License renewal : 12 Oct 2025
+",Medium,Operational,Installed,Paolo Di Fruscia,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Simulations Plus,Prod,Reached Out 9/12
+28,Adobe Acrobat,Adobe Acrobat,Low,Operational,Installed,Rob Rhoads,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,No,No,Adobe,Prod,
+31,Agilent Cary 60 UV-Vis with Cary WinUV V5.2 Software  [CWUV-ALE-104],UV system used with the QC and R&D Departments in KSP,High,Operational,Installed,Mark Abbitt,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Agilent Technologies Inc,Prod,
+32,Agilent Open Lab Version 1.1.298 (UVCARY) [OLAB-ALE-173],"UV
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Agilent Technologies Inc,Prod,
+33,Agilent OpenLab (3) Version 3.2 [AOL-CDS-178],"HSS GCMS/FID, GCMS
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Agilent Technologies Inc,Prod,
+34,Agitated Filter Drier (AFD),Agitated Filter Drier instrument connected to PC in B736 at KSP,Low,Operational,Installed,Stephen Parsons,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,National Instruments,Prod,
+37,Alteryx Designer,"Data preparation tool, ETL platform used for Self Service BI. Intended to be used by business as it is more user friendly than PP (which is more of an IT tool).
+It will allow the Commercial Analytics to be not dependent heavily on IT and create their own datasets.",Medium,Operational,Installed,Bhaskar Nunna,Bhaskar Nunna,Application - BI and Data Operations,Application - BI and Data Operations,No,No,Alteryx,Prod,"Based on the task(SCTASK0062338) created by ""Bhaskar Nunna"" retiring this CI."
+40,Amazon CloudWatch - Prod,"Amazon CloudWatch is a service that monitors applications, responds to performance changes, optimizes resource use, and provides insights into operational health. By collecting data across AWS resources, CloudWatch gives visibility into system-wide performance and allows users to set alarms, automatically react to changes, and gain a unified view of operational health.",Medium,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Cloud Ops,T3 - Cloud Ops,No,No,AWS,Prod,Reached Out 10/28
+42,Anaplan,Supply Chain order forecasting tool,Low,Operational,Installed,Susie Bruins,Paul Vince,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Anaplan,Prod,
+43,AND,AND instrument connected to PC in B100 at KSP,Low,Operational,Installed,Edward Byrne,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Unknown,Prod,
+44,Ansible,"Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes.",Low,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Linux Ops,T3 - Linux Ops,No,No,Red Hat,Prod,Reached Out 10/28
+50,Arcserve [AS-DSB-003],Global backup and and data storage Appliances that support data backup and Business continuity,High,Operational,Installed,Patrick Bala,Julian Papandrea,T3 - Storage and Backup Ops,T4 - Infra Ops and Engineering,Yes,No,ArcServe,Prod,
+59,Articulate 360,"Articulate 360 is everything your team needs to create e-learning.
+When we add a license to the user they get an install email, we just then need to provide admin rights to install the app
+This is moving to EUC in 2024 - we have a portal with 3 licenses to be renewed in Jan 2024",Low,Operational,Installed,Richard Gash,Richard Gash,T2 - Service Desk On-Site UK,T2 - Service Desk On-Site UK,No,No,Articulate,Prod,Reached Out 9 /17
+60,Aruba Clearpass,Network Access Control (NAC),High,Operational,Installed,Robert Fell,Bill Shieh,T2_Information_Security_SN,T2_Information_Security_SN,No,No,Hewlett-Packard,Prod,Sheryl waiting for Robert to approve the change of system owner to Elaine Ediin
+61,Assay Manager Version 1.0.4.1 [ASS-ALE-172],"RT-PCR
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+62,AutoCAD,"AutoCAD is a 2D and 3D computer-aided design (CAD) software application developed by Autodesk. At Jazz Pharmaceuticals, this application is owned and managed by Mandy Timmons in the Engineering department, with support to install and setup AutoCAD provided by the Service Desk.",Low,Operational,Installed,Roy Elphick,Richard Gash,T2 - Service Desk On-Site UK,T2 - Service Desk On-Site UK,Yes,No,Autodesk,Prod,Reached Out 9 /17
+63,Automation Anywhere [AAN-RPA-133],"RPA SaaS platform.
+Migrated from AA on-premise to AA Pure Cloud January 2022 and NA2-RPA01 was  then decommissioned ",Medium,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Automation Anywhere,Prod,
+64,Automation Jump Server,Server used by Automation to connection to manufacturing equipmetn,High,Operational,Installed,Rajesh Chakkedath,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Microsoft,Prod,
+66,Avance NEO 500MHz with TopSpin [ANEO-ALES-034] ,Nuclear Magnetic Resonance instrument used for structure elucidation,Medium,Operational,Installed,John Warren,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Bruker,Prod,
+68,AWS,Regulatory Intelligence Platform in AWS,High,Operational,Installed,Claire Beggs,Patrick Bala,T3 - Network and Firewall,T3 - Network and Firewall,No,No,AWS,Prod,
+69,AWS S3,Created to tag while creating a catalog request for AWS S3 bucket creation,Medium,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Cloud Ops,T3 - Cloud Ops,No,No,AWS,Prod,
+70,AWS SSM,AWS Systems Manager (SSM) is the operations hub for AWS applications and resources used to perform end-to-end management of the AWS cloud environment and perform essential maintenance activities such as OS patching.,High,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Windows Ops,T3 - Windows Ops,No,No,AWS,Prod,WSUS Server in AWS used by AWS SSM for patching of Windows servers. 
+71,B750a ERI Extraction Skid 1 Control System [ERI-BDSM-017],BDS Manufacturing Extraction Skid Contro System,High,Operational,Installed,Mark Manser,Rajesh Chakkedath,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,ER Ingenierie,Prod,"Final B750 Report VP-13054-R1
+(PCS + Extract#1)"
+72,B750a ERI Extraction Skid 2 Control System [ERI-BDSM-018],B750A BDS Production Control system for B750A Extractor 2,High,Operational,Installed,Mark Manser,Rajesh Chakkedath,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,ER Ingenierie,Prod,
+73,B750a Process Control System [OPT-BDSM-035],BDS Manufacturing Process Control System,High,Operational,Installed,Mark Manser,Rajesh Chakkedath,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Optimal Industrial Automation Ltd,Prod,Final B750 Report VP-13054-R1
+74,B750b Phase 1 Process Control System [OPT-BDSM-036],B750B (phase 1) Process Control System for DAP & Batch Management (Rockwell PlantPAx),High,Operational,Installed,Mark Manser,Rajesh Chakkedath,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Rockwell,Prod,
+75,B750b Phase 2 Process Control System [OPT-BDSM-037],"B750B (phase 2) Process Control System for milling, DAP & Batch Management (Rockwell PlantPAx)",High,Operational,Installed,Mark Manser,Rajesh Chakkedath,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Rockwell,Prod,
+76,B750b Phase I ERI Skids 3 & 4 Extraction Control System [ERI-BDSM-019],B750B BDS Production Control system for physical Extractor 3 & 4 (Siemens PCS7),High,Operational,Installed,Mark Manser,Rajesh Chakkedath,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,ER Ingenierie,Prod,
+77,B750b Phase II Natex Extraction Control System [NAT-BDSM-020],"B750B BDS Production Control system for physical Extractor 5,6 & 7  (Siemens PCS7)",High,Operational,Installed,Mark Manser,Rajesh Chakkedath,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Natex,Prod,
+79,BDP Checkweigher (CMS),Checkweigher in use at KSP BDP B740,Medium,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Wipotec-OCS,Prod,
+80,BDP Checkweigher (CPA2),Checkweigher in use at KSP BDP B740,Medium,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Wipotec-OCS,Prod,
+81,Bellingham and Stanley LIMS Logger,Logger in uses in KSP QC department connected to LIMS system,Low,Operational,Installed,Andy Bracking,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Bellingham and Stanley,Prod,
+84,BeyondTrust Remote Support (Bomgar),"BeyondTrust Remote Support (formerly called Bomgar) provides IT technicians with a one-stop tool to support end-users devices on or off the corporate network remotely. It is designed to replicate an in-person remote support experience virtually.
+20 current user licenses and 10,000 active connections.
+Hosted on na2-beytrust01
+
+",Medium,Operational,Installed,David Jackson,Richard Gash,T2 - Service Desk On-Site UK,T2 - Service Desk On-Site UK,Yes,No,BeyondTrust,Prod,"Account managers
+Chris Hvidsten (Tech) - chvidsten@beyondtrust.com
+Ron Culver (account) - rculver@beyondtrust.com"
+85,BeyondTrust RepConsole,BeyondTrust enables to support customers remotely by connecting to them through the BeyondTrust Appliance B Series.,Low,Operational,Installed,Richard Gash,Richard Gash,T2 - Service Desk On-Site UK,T3 - EUC - Client Engineering,No,No,BeyondTrust,Prod,This CI looks incorrectly classified and missing the mandatory fields for the appropriate class.
+86,BeyondTrust SupportButton,Live chat Button for LGW users,Low,Operational,Installed,Richard Gash,Richard Gash,T2 - Service Desk On-Site UK,T3 - EUC - Client Engineering,No,No,BeyondTrust,Prod,Reached Out 9 /17
+87,BI CopyStorm Tool,"CopyStorm is a Salesforce application that provides near real-time data center replication of the Saleforce environment, enabling point-in-time data restoration, disaster recovery, and sandbox seeding.",Low,Operational,Installed,Vishal Vermani,Bhaskar Nunna,Application - BI and Data Operations,Application - BI and Data Operations,No,No,Salesforce,Prod,"CopyStorm tool is used to extract Data from Saslesforce in the cloud and load in to SQL Servers
+
+"
+90,BigID,Data discovery and categorization tool,Low,Operational,Installed,Robert Fell,Elaine Ediin,Security Risk and Compliance,Security Risk and Compliance,No,No,BigID,Prod,Sheryl waiting for Robert to approve the change of system owner to Elaine Ediin
+93,Bitly,URL shortening service,Low,Operational,Installed,Kenny Low,Kenny Low,T2 - IS Comm Onmichannel Support,T2 - IS Comm Onmichannel Support,No,No,Bitly,Prod,
+95,BMS-prod,BMS (ATM App),High,Operational,Installed,Willie McCormack,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Trend,Prod,Followed Up 10/28
+96,BOAGlobalReporting,EMEA Credit Card Program for Jazz EU employees,High,Operational,Installed,Richard Rumbold,Giorgio Grasso,App SNC SAP ERP,App SNC SAP ERP,No,No,Bank of America,Prod,Reached out 9/04
+98,Bosch Capsule Filler,Capsule Filler in use at KSP BDP B740,Medium,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Bosch,Prod,Followed up 10/22
+99,Box,"Provides a cloud-based document, content management and file sharing service for businesses.",High,Operational,Installed,Terri Pavlovic,Darren Heinrichsen,Application - JazzShare,Application - JazzShare,No,No,Box,Prod,
+100,Box (JazzShare) - Prod,Document collaboration platform and document management system/repository for Non-Gxp documents,Critical,Operational,Installed,Chris Caulton,Darren Heinrichsen,Application - JazzShare,Application - JazzShare,No,No,Box,Prod,
+101,Box (JazzShare) Migration,This configuration item references the 2024-2025 efforts to migrate data from Box (JazzShare) to Teams/SPO/OneDrive in order to retire Box.,Medium,Operational,Installed,John Delaney,Darren Heinrichsen,Application - JazzShare,Application - JazzShare,No,No,Box,Prod,Awaiting confirmation from Darren H this can be retired - tags should be used for this purpose instead.
+102,BPC,"Budgeting, financial planning, financial reporting for all of Jazz",Critical,Operational,Installed,Giorgio Grasso,John Lennon,Application - SAP BPC,Application - SAP BPC,No,Yes,Oracle,Prod,Followed Up 10/28
+103,BrightCove,Used for storing of videos which are used for Jazz related communication or newsletters.,Medium,Operational,Installed,Alyza Land,Briege Ibanez,T3 - Unified Communications,T3 - Unified Communications,No,No,,Prod,Followed up 10/222
+104,Bruker FT-NIR,Software for the vontrol of the Bruker Tango FT-NIR,Low,Operational,Installed,Andy Bracking,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Bruker,Prod,
+105,Bruker NIR Spec x 4,2 onsite and 2 at growing sites,Medium,Operational,Installed,Philip Bowling,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Bruker,Prod,
+108,CalcuSyn,"CalcuSyn Version 2.0 is the definitive analyzer of combined drug effects, able automatically to quantify phenomena such as synergism and inhibition.",Low,Operational,Installed,Emanuele Loro,Alberto Orta,APP SNC R&D Data Solutions,APP SNC R&D Data Solutions,No,No,BioSoft,Prod,investigate as the group that use that software is not clinical and is borderline with GxP dataI will check with the business owner and I will update the field accordingly
+109,Candid,Data Science deliverable tracking Tool,Medium,Operational,Installed,Megan Dunham,Ting Ting Lo,L2 - DS AMS Non-RNCD,L2 - DS AMS Non-RNCD,No,No, Zeroarch Software Limited,Prod,Reached Out 10/2
+111,Canon Uniflow Online Printing,"uniFLOW Online is a secure cloud print and scan solution which enables organizations to manage their entire print environment. The solution aims to upgrade document security, control costs and increase employee productivity while simultaneously reducing internal IT requirements.",Medium,Operational,Installed,David Jackson,Jack LaCorte,T2 - Service Desk On-Site EU,T3 - EUC - Client Engineering,No,No,Canon,Prod,"Updated using the IS DR Data excel ""Phase 1 Final Doc"""
+112,Carbon Black,"Carbon Black is a security incident response and threat hunting solution that continuously records and stores endpoint activity data so security professionals can hunt threats in real time and visualize the complete attack kill chain, using aggregated threat intelligence.",Medium,Operational,Installed,Bill Shieh,Bill Shieh,Security Risk and Compliance,Security Risk and Compliance,No,No,"VMware, Inc.",Prod,
+114,Cartoner,Cartoner in use at KSP BDP B740,Medium,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,JW Verpackungstechnik GmbH,Prod,
+115,Cary 60 UV-Vis (ACW),UV-Vis spectrophotometer instruments with a central server for data storage,Medium,Operational,Installed,Andy Bracking,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Agilent Ltd.,Prod,
+120,CFS1500 Capsule Filler,CFS1500 capsule filler in use at KSP B955,Medium,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Capsugel,Prod,Followed up 10/22
+121,ChemDraw ,"ChemDraw Professional software provides chemical structure drawing and analysis for scientists. It can help you in the preparation of publication-quality graphics for scientific journals. It also a drawing tool for biological pathways; common pathway elements such as membranes, DNA, enzymes, receptors, etc. are included.
+
+License renewal :  26-Feb-28
+
+License Key: https://jazzpharma.sharepoint.com/:t:/r/sites/RNCD-ApplicationManagement/Shared%20Documents/General/License%20Files/License%20files/ChemDraw.txt?csf=1&web=1&e=UwYDtr
+
+ ",Low,Operational,Installed,Antoine Millet,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Revvity Signals Software,Prod,
+122,Chemical Registration (CREG) [BIOVIA-CDB-008],"A flexible, fully featured out-of-the-box solution for building, managing and searching a corporate compound and batch database.",Low,Operational,Installed,John Warren,Alberto Orta,T2_BPS_ELN,T2_BPS_ELN,Yes,No,Dassault Systemes,Prod,System release expected 2Q'20
+123,Chemistry 42,"A software platform for new small molecule design and optimization that integrates Artificial Intelligence (AI) techniques with computational and medicinal chemistry methodologies.
+
+License/Subscription renewal : 31-Jan-26
+
+No License key since SaaS application
+",High,Operational,Installed,Paolo Di Fruscia,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Insilico,Prod,Reached Out 9/12
+124,ChemOffice-Prod,"ChemOffice 16 is an integrated suite of scientifically intelligent productivity tools that enables researchers to capture, store, retrieve and share data and information on compounds, reactions, materials and their properties.",Low,Operational,Installed,Antoine Millet,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Revvity Signals Software,Prod,
+125,ChemStore,Legacy instrument data (prior to Empower) which is stored due to regulatiry requirements,Medium,Operational,Installed,Helen Elliott,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Agilent Technologies Inc,Prod,Chemdraw used in KSP
+126,Chrome,Google Chrome Browser,Low,Operational,Installed,David Jackson,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,No,No,Google,Prod,Reached Out 9/17
+127,Chromeleon  [CHR-CDS-111],IC - Chromatography Data System / ATM app,High,Operational,Installed,Willie McCormack,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Thermo Fisher Scientific,Prod,Followed Up 10/28
+128,Chromeleon Version 7.2 [CHR-CDS-179],"IC HPLC-DAD-CAD
+UPLC-HS
+IC
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Thermo Fisher Scientific,Prod,
+131,Cisco Meraki Dashboard,Provides a modern web-browser-based tool for configuring Meraki devices and services.,Low,Operational,Installed,Patrick Bala,Patrick Bala,T3 - Network and Firewall,T3 - Network and Firewall,No,No,Cisco,Prod,
+132,Cisco Umbrella,cloud based DNS Firewall and threat intelligence,High,Operational,Installed,Bill Shieh,Bill Shieh,T2_Information_Security_SN,T2_Information_Security_SN,No,No,Cisco,Prod,11/7: Updated
+135,Clarity (DEV),DEVELOPMENT SYSTEM for Enterprise project and portfolio management tool,Medium,Operational,Installed,Alberto Blanco,Harsh Markna,T2_IS_PMO_BPS_SN,T2_IS_PMO_BPS_SN,No,No,Broadcom,Prod,
+136,Clarity (PROD),Enterprise project and portfolio management tool,Medium,Operational,Installed,Alberto Blanco,Harsh Markna,T2_IS_PMO_BPS_SN,T2_IS_PMO_BPS_SN,No,No,Broadcom,Prod,
+137,Clarity ImageProVision,Particle Sizing Software. ,Low,Operational,Installed,Nicole Nash,Alan Booth,T1 - Service Desk Cognizant,T2_BPS_TOQ_KSP,No,No,?,Prod,Client GXPCLPICLI01
+139,Clearpass,"ClearPass provides organizations with the ability to manage access levels, secure rogue devices, and monitor the network.",High,Operational,Installed,Patrick Bala,Ashwin Macharla,T3 - Network and Firewall,T4 - Network and Firewall,No,No,HPE,Prod,
+146,CloudPay,"UK payroll outsourced solution for GWR, GWP and GWS staff (all L-GW UK payrolls).
+
+Workday and all the new hire info only shows the full name email not the abbreviated one we need to use for Cloudpay. 
+Payroll must do a manual check to ensure the abbreciated email is being sent over to Cloudpay and used and NOT the users full email address. ",High,Operational,Installed,Steph Chandler,Phillip Starling,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,Yes,Yes,CloudPay,Prod,
+147,Colorimeter,An instrument used to measure the absorbance and transmittance of light as it moves through a sample of liquid,Medium,Operational,Installed,Alejandro Montellano López,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Konica Minolta,Prod,
+148,Commercial Packing Area 2 [CPS-BDSM-006],CPA2 area used by BDP team at KSP,High,Operational,Installed,Daniel Carroll,Alan Booth,T2_Infrastructure_Systems,T2_BPS_TOQ_KSP,Yes,No,Laetus,Prod,
+151,ComplianceWire,Electronic Training System for scheduling and recording training in GW Procedures,Medium,Operational,Installed,Lidia Reynor,Tracy Kemp,App SNC JazzTeams,T2_Compliance_Training,Yes,No,UL EduNeering,Prod,"System decomissioning in porgressing , system is not in operational use but needs to remain live until decomissining is completed. 
+"
+155,Concur-Prod,"1. used for expense reporting by people who generate spend reports
+2. booking travel - US and EU",Medium,Operational,Installed,Holly Buddle,Jimmy Singpurwala,Application - Concur,Application - Concur,No,No,SAP,Prod,
+156,Continia,"Invoice capture, scanning, and approval.
+
+18.06.2024 Update:  Continia is no longer in use. It is still required as it is used to view the invoice file / vendor documents.",High,Operational,Installed,Holly Buddle,Phillip Starling,T2_Finance_Support_SN,T2_Finance_Support_SN,No,No,Continia,Prod,
+157,Controllo UTA Version NA [UTA-PCS-171],"white room
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+160,Cornerstone Classroom App,Organize and lead compelling virtual training sessions and meetings with the Cornerstone Classroom App. Engage in face-to-face collaboration to boost social learning.,Low,Operational,Installed,Lidia Reynor,Rob Rhoads,T3 - EUC - Client Engineering,T3 - EUC - Client Engineering,No,No,SABA (Cornerstone),Prod,This CI looks incorrectly classified and missing the mandatory fields for the appropriate class.
+161,Cortellis," Okta App, tile provided by Security Risk and Compliance  Application. used by the PV and reg affairs",Medium,Operational,Installed,Nicola Lawson,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,No,No,Library Services,Prod,Reached out 8/28. Awaiting Response
+162,CPC,CPC instrument connected to a PC in B730 at KSP,Low,Operational,Installed,Andy Bracking,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Unknown,Prod,
+165,CRM (Commercial) SQL Server  Prod,"
+Submit requests for access to Commercial CRM Datasets for Prod ",High,Operational,Installed,Bhaskar Nunna,Shwetabh Suman,Application - BI and Data Operations,Application - BI and Data Operations,No,No,Amazon.com,Prod,
+169,Crowdstrike,"Unified Next Gen Anti-Virus, Endpoint Detection and Response, threat hunting and some threat intelligence.",High,Operational,Installed,Robert Fell,Bill Shieh,T2_Information_Security_SN,T2_Information_Security_SN,No,No,Crowdstrike,Prod,11/7 Updated
+170,CS 115 (Serialisation),CS115 in use at KSP BDP B740,Medium,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Laetus,Prod,
+171,CSC - Corporation Service Company,Domain mangement,Low,Operational,Installed,Kenny Low,Kenny Low,T2 - IS Comm Global Digital,T2 - IS Comm Global Digital,No,No,Corporation Service Company,Prod,
+172,CSD-Materials ,"CSD-Materials enables scientists to use the wealth of structural information in the CSD to bring a structural perspective to solid form selection.
+
+License renewal : 8-Jul-25
+",Medium,Operational,Installed,Vijay Srirambhatla,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Cambridge Crystallographic Data Centre,Prod,Reached Out 9/12
+175,Cyberhaven,cloud security built to work with modern apps.,Low,Operational,Installed,Bill Shieh,Bill Shieh,Security Risk and Compliance,Security Risk and Compliance,No,No,Cyberhaven,Prod,11/7 Updated.
+176,Cytoscape,"Cytoscape is an open source bioinformatics software platform for visualizing molecular interaction networks and integrating with gene expression profiles and other state data.
+
+License detail :  Open source",Medium,Operational,Installed,Emanuele Loro,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Cytoscape,Prod,Reached Out 9/12
+178,Data Science Environment (DSE) Prod,"Data Science Environment (DSE) is hosted on Kubernetes and has following software's: 
+* Posit (Workbench, Connect and Package Manager)
+* SAS Studio
+* SAS Session Manager",Medium,Operational,Installed,Megan Dunham,Vishal Vermani,Application - BI and Data Operations,Application - BI and Data Operations,No,No,Amazon EC2,Prod,10/30: Sheryl reached out to Naveen Joon to determine system owner.
+183,Dataiku - Prod,"As a part of Clean up, we have udpated the Name. ",Low,Operational,Installed,Vishal Vermani,Hari Appala,Application - BI and Data Operations,Application - BI and Data Operations,Yes,No,Dataiku,Prod,
+185,DataStore,Data Stoarge which is comprised of FSx (Datastore) and S3 buckets,Medium,Operational,Installed,Vishal Vermani,Vishal Vermani,Application - BI and Data Operations,Application - BI and Data Operations,No,No,AWS,Prod,
+187,Datorama,Marketing intelligence and analytics platform,Medium,Operational,Installed,Kenny Low,Kenny Low,Application - Datorama,Application - Datorama,No,No,Salesforce,Prod,
+191,Delinea Privilege Manager,"Description
+",Low,Operational,Installed,Robert Fell,Bill Shieh,T2_Information_Security_SN,T2_Information_Security_SN,No,No,Delinea,Prod,11/7: Updated
+193,Design Expert,"Design-Expert provides powerful tools to lay out an ideal experiment on your process, mixture or combination of factors and components.
+
+License renewal : 27-Jul-25
+",Medium,Operational,Installed,Alejandro Montellano López,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Stat- Ease,Prod,Reached Out 9/12
+195,DHCP Services,This application has not been updated for a long time and is missing mandatory and recommend fields.,Medium,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Windows Ops,T3 - Windows Ops,No,No,Windows,Prod,Vishwas Joshi (CTS) says this is an application. Believe it may be the Microsoft Windows Server plugin for DHCP Server. Confirmation needed.
+198,Differential Scanning Calorimetry (DSC),Instrument used to measure the heat flow rate to or from a sample specimen as it is subjected to a controlled temperature program in a controlled atmosphere,Low,Operational,Installed,Alejandro Montellano López,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Malvern Panalytical Limited,Prod,
+200,Digital Services Hub website and Vae,A blanket CI for Digital Service hub website and VAE support,Critical,Operational,Installed,Sundeep Gohil,Sundeep Gohil,Digital Services Hub fulfiller,Digital Services Hub fulfiller,,,Unknown,Prod,Followed Up 10/29
+201,Digital Shadows,Threat Intelligence,Low,Operational,Installed,Robert Fell,Michelle Tran,T2_Information_Security_SN,T2_Information_Security_SN,No,No,Digital Shadows,Prod,Sheryl waiting for Robert to approve the change of system owner to Elaine Ediin
+202,Digital Signage,A system of physical networked media players that stream corporate content to display screens around global offices. ,Medium,Operational,Installed,Shawn Mindus,Briege Ibanez,T2 - Service Desk On-Site UK,T4 - AV and Unified Communications,No,No,Digicom Office Technology Ltd,Prod,
+204,Dissolution Bath with UV Detection [ADBUV-ALE-050],Disolution bath with UV connected controlled by PC,Low,Operational,Installed,Alexander Pollington,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Agilent Technologies Inc,Prod,
+205,DNA Robot OneLab,DNA Robot OneLab instrument connected to PC at KSP,Low,Operational,Installed,Edward Byrne,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Okto Pure,Prod,
+207,DocuSign [DS-ESIG-070],"DocuSign is an eSignature routing tool that provides Jazz the benefits of electronic signing, while helping to meet regulatory compliance requirements in highly regulated industries and markets. Compliant with 21 CFR Part 11 regulations.",Medium,Operational,Installed,Caroline Flavin,Kieran Galvin,Application - DocuSign,Application - DocuSign,Yes,No,Docusign,Prod,
+210,Dow Jones Database,A subscription to Dow Jones risk management products that enables due diligence to be performed on potential suppliers by the procurement department.,Medium,Operational,Installed,Kimberly Deadman,Phillip Starling,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Dow Jones & Company,Prod,Reached Out 9/17
+213,Duo-Prod,Provide MFA capability to authenticate Jazz users to applications/services/infrastructure integrated with Duo Beyond thorugh Okta or LDAP authentication via AD. Currently the plan is to apply this for IC4 and/or GDPR In-Scope systems only.,High,Operational,Installed,Srinivas Chittala,Srinivas Chittala,Security IAM ,Security IAM ,No,No,Duo Security,Prod,11/4 Updated
+215,Dynamics NAV,Enterprise Resource Planning System (ERP),High,Operational,Installed,Holly Buddle,Paul Vince,T2_ERP_Support_SN,T2_ERP_Support_SN,Yes,Yes,Microsoft,Prod,Release of MRP & MPS phase
+217,DynamicsAX-Prod,Recording all financial transactions of Jazz excluding manufacturing in Italy,Low,Operational,Installed,Giorgio Grasso,Giorgio Grasso,Application - Finance and Supply Chain,Application - Finance and Supply Chain,No,No,Microsoft,Prod,Reached out 9/04
+219,EA0016 PV Regulatory Intelligence,PV regulatory intelligence review task assignment and tracking,Low,Operational,Installed,Sian Casey,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+220,EA0021 PhishAlarm Response Process,"Draft response to users for reported phish based on automatically identified verdict (from another tool) of 'Spam', or 'Legitimate'",Low,Operational,Installed,Michelle Tran,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+221,EA0022 IS Training Coordinator Activities,Software bot to read Jazz Learn reports to determine the contact managers and initiate training assessment for employees and contingent workers,Low,Operational,Installed,Julnette Torres,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+222,EA0031 Jazz Central Feedback Form Automation,Automatically notify Jazz Central team on Microsoft Teams channel when feedback submmission is received,Low,Operational,Installed,Alyza Land,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+223,EA0032 Potential GRADS Event Automation,"When an event is added to the SharePoint team page, a notification with details needs to be sent to the GRADS General channel.",Low,Operational,Installed,Nicholas Sweeney,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+224,EA0033 EUR INT Commercial Shared Calendar Automation,Transfer data between calendars to remove personal information in a shared calendar,Low,Operational,Installed,Tracey Elsworth,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+225,EA0034 Digital Dexterity Assessment Results ,Calculate Digital Dexterity Microsoft Form responses to generate key insights and suggest next steps,Low,Operational,Installed,Chris Caulton,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+226,EA0035 Automation Anywhere Audit Log ,Export and save audit logs from Automation Anywhere production control room,Low,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,Yes,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+227,EA0037 Consultant Engagement Approval Workflow,Workflow to review and approve high dollar amount consultant engagements,Low,Operational,Installed,Yvonne Cudlipp,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+228,EA0041 Commercial Data Request,Workflow to review and approve US commercial data requests ,Low,Operational,Installed,Maire Donovan,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Business owner changed to Maire Donovan at the request of Amit Gore (Jerry Yu has left Jazz Pharmaceuticals).
+229,EA0042 GCDO Learning Site Broken Link Check,periodic checking the health of the links on GCDO Learning SharePoint site and notifying Business Owner,Low,Operational,Installed,Aleksandra Kraszewska,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+230,EA0043 GCDO Playbook Broken Link Check,periodic checking link health on GCDO Playbook SharePoint site and notifying Business Owner,Low,Operational,Installed,Yash Shah,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+231,EA0046 GxP System Info Review Requests,Periodically send GxP system information to System Owner to review and update in an Adaptive Card via Teams Chat. ,Low,Operational,Installed,Simon Frost,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+232,EA0048 Jazz Learn Training Report for EC Members,prepare weekly training reports for EC members to show late trainings in their organizations. ,Low,Operational,Installed,Luis Mazier,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Followed up 10/22
+233,EA0050 Product Review Committee Meetings,"Power Apps to centralize the input and tracking of agenda topics, preview links, and meeting minutes, and create and distribute meeting documents for Early Development Product Review committee and Development Product Review Committee. ",Low,Operational,Installed,Paul Donnelly,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+234,EA0052 Bioinformatics Log,logging and tracking of Bioinformatics requests,Low,Operational,Installed,Emanuele Loro,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+235,EA0053 Safety Data Exchange Log,Log safety data exchange and check whether exchange met commitment with external partners ,Low,Operational,Installed,Kristin Roe,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Followed up 10/22
+236,EA0055 EUR INT Commercial Agreements Programmes (CAP),"A system to manage the CAP process and data, including:
+
+- template/form based submission of CAP requests 
+- a master list of all submitted requests 
+- various list views based on internal product stakeholders
+- document store linked to the master list containing all supplemental documents for each request
+- reporting",Low,Operational,Installed,Bruno Cherel,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+237,EA0061 Automation Request Calculation ,Calculate form responses when an automation request is submitted,Low,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+238,EA0065 New PDMS Email and Teams Notify,Save all incoming attachments from a Microsoft 365 Groups mailbox into a SharePoint site. ,Low,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Followed up 10/22
+239,EA0066 Day-14 Reminder Email to GCM/SDM/BRM,Day-14 Reminder Email to GCM/SDM/BRM. ,Low,Operational,Installed,Jignesh Patel,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+240,EA0067 PV Scientist Reminder Email," Send As ""Automated PV Scientist Email"" Mailbox sites/TEAM-PVScientists",Low,Operational,Installed,Jignesh Patel,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+241,EA0069 Clinical Support SLA,ticketing system for Medidata application access requests,Low,Operational,Installed,Bijal Shah,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+242,EA0070 MIC Reports,Prepare Med Info Cloud reports for reconciliation,Low,Operational,Installed,Suhas Thakur,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+243,EA0073 German POD,German Proof of Delivery RPA bot,Low,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,Yes,Jazz Pharmaceuticals,Prod,
+244,EA0075 Procurement Reporting,RPA bot pulling PO and PR reports in SAP for Procurement team,Low,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,Yes,Jazz Pharmaceuticals,Prod,
+245,EA0078 Supplier Verification,RPA bot for various verification checks during supplier onboarding,Low,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,Yes,Jazz Pharmaceuticals,Prod,
+246,EA0081 Smartsheet Account Provisioning,RPA bots to provision user accounts in Smartsheet,Low,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+247,EA0082 R&D Clinical SS,RPA used for R&D ,Low,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,
+248,EA0083 AA Change Log,extract and store Automation Anywhere bot change log ,Low,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,Yes,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+249,EA0087 EURINT Pricing Request Intake,EURINT pricing request intake and tracking ,Low,Operational,Installed,Bruno Cherel,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+250,EA0091 PV Geographical Expansion,"Power App UI and Power Automate backend flow for drafting change controls, assigning and tracking impact assessments related to global marketing authorization changes",Medium,Operational,Installed,Giuseppe Violante,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,
+251,EA0093 Data Cleansing on RPA VDI Runners,automated removal of files older than 60 days on RPA runner machines,Low,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+252,EA0094 Enterprise Automation Status Report Extraction,prepare and distribute Enterprise Automation weekly implementation status reports into individual reports by functional area/shared channel,Low,Operational,Installed,Dylan Richardson,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+253,EA0096 Study Site and RAID log creation,automated creation of requested SharePoint sites for studies,Low,Operational,Installed,Melquiades De Jesus,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+254,EA0097 Periodic Review Process,This process involves calculation of dates and review of information for review of Periodic Review in SharePoint list - https://jazzpharma.sharepoint.com/sites/GlobalISComplianceTeam/Lists/Systems%20Inventory/Default%20View.aspx?viewid=a469f83d%2D2025%2D4847%2D9546%2D3d945d887066&useFiltersInViewXml=1,Low,Operational,Installed,Adrian Horne,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,
+255,EA0098 Med Info Inbox Reporting,"Run PowerShell script to report on all incoming email messages in two Med Info mailboxes (US and EUR INT), email reports to vendors supporting Jazz Med Info inquiry processing in order to reconcile with the open requests in MIC application. ",Medium,Operational,Installed,Marc Uy,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+256,EA0099 MS365 Copilot Test Bot,feed a list of prompts through a bot with MS365 Copilot license and send output to a Teams Channel ,Low,Operational,Installed,Ivo Vybiral,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+257,EA0100 Corporate Calendar Feedback,"When someone fills out this form https://forms.office.com/r/17VtFCSk0L to provide feedback on corporate calendar, a notification is posted in a Teams channel: Jazz Central Community (Team) > Corporate Calendar (Channel)",Low,Operational,Installed,Alyza Land,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,Reached Out 8/28
+258,EA0109 - IS Compliance Prompt Automation,automated drafting of validation artifacts using prompt templates and user inputs of system information,Low,Operational,Installed,Adrian Horne,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,
+259,EA0110 Accrual Journal Generation,generation of journals for monthly accruals ,Medium,Operational,Installed,Stephen Barry,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Jazz Pharmaceuticals,Prod,
+261,EA0115 Documento di Transporto (DDT) Automation,Bot receives Coupa report (excel) to populate shipping documents which need to be numbered sequentially and deposited in a defined folder,Low,Operational,Installed,Alberto Ferrario,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Microsoft,Prod,
+262,EArchive-001 [EARC-EFA-011] ,Controlled file server with procedural controls in place for archiving of clinical opperations files & Data,Low,Operational,Installed,Michelle Peacock,Karen Twigden,Application - JazzVault RIM,Application - JazzVault RIM,Yes,No,Nets,Prod,
+263,East,"This tool is used by bio statistics group used for protocol design and development, primarily to conduct sample size calculation, and group sequential design.",Medium,Operational,Installed,Ashok Panneerselvam,Ting Ting Lo,L2 - DS AMS Non-RNCD,L2 - DS AMS Non-RNCD,No,No,Cytel,Prod,
+264,EasyMax,Advanced Thermostat system,Low,Operational,Installed,Lynn McMillan,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Mettler Toledo,Prod,
+265,EDC,TrialMaster EDC (Maintained and paid by Business) and used small studies,High,Operational,Installed,Andrew Miller,Andrew Miller,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,Yes,No,Endpoint,Prod,Reached Out 9/16
+267,eFax,"eFax is a unique internet-based fax service that enables you to send and receive faxes online, by email and via mobile devices, meaning you can access the service at any time, from any place.",Medium,Operational,Installed,Susanne Skibsted,John Delaney,T3 - Unified Communications,T4 - AV and Unified Communications,No,No,eFax.com,Prod,"Support: corporatesupportuk@mail.efax.com
+Contact at eFax: 
+Kevin Lyons I Corporate Sales l j2 Global®
+kevin.lyons@j2.com l www.j2.com
+Direct Line:   (UK ) 0203 086 9881 
+(IRL) +353 1 656 4957 
+(NL) +31 20 2620291 USA 323-386-6923
+"
+269,Electronic Common Technical Document Viewer (eCTD),This application has not been updated for a long time and is missing mandatory and recommend fields.,Medium,Operational,Installed,Rebecca Haley,Aishwarya Hemanth,Application - GCDO,Application - GCDO,No,No,Certara,Prod,Registry review required
+270,Electronic Lab Notebook (ELN),Electronic Lab Notebook for recording notes related to analytical studies,High,Operational,Installed,Hannah Stone,Alberto Orta,T2_BPS_ELN,T2_BPS_ELN,Yes,No,Dassault Systemes,Prod,
+273,Empower 3 [EMP-CDS-015],"Chromatography Data System used for performance of analystical testing in QC & R&D.
+
+Empower3 used to control all HPLC/GC systems in both QC and R&D, so business critical.",High,Operational,Installed,Andy Bracking,Paul Smith,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Waters,Prod,
+274,Empower 3.7,"Global Chromatography Data System used for performance of analystical testing in QC & R&D across all Ops Sites: Athlone, Kent Science Park, Vancouver & Villa Guardia.
+",Critical,Operational,Installed,Mark Abbitt,Paul Smith,T2_BPS_TOQ_Global_Systems,T2_BPS_TOQ_Global_Systems,Yes,No,Waters Limited,Prod,Server: EU2-EMPWR01
+276,Empower Version 3.5 [EMP-CDS-170],"HPLC, GC-FID, HSSGCFID
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Waters Corporation,Prod,
+277,Empower [EMP-CDS-110],Empower / ATM App,High,Operational,In Maintenance,Willie McCormack,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Waters,Prod,Followed Up 10/28
+278,EmpowerProd (Vancouver),"Empower 3 provides advanced data acquisition, management, processing, reporting, and distribution of chromatography analysis data.
+
+This application is currently supported by the business, and is in scope to be replaced by the new global instance of Empower later in 2024.",Medium,Operational,Installed,Sherwin Xie,Alan Booth,T2_BPS_TOQ_Global_Systems,T2_BPS_TOQ_Global_Systems,Yes,No,Waters,Prod,Vancouver Empower  Prod
+279,Endnote-Prod,"Word processing software that allows formatting of bibliography and holds public domain literature e.g. publications, journals, conference proceedings",Medium,Operational,In Maintenance,Roya Bahrami,Roya Bahrami,L2 - GMA AMS Non-RNCD,APP SNC Library Resources,No,No,Clarivate,Prod,Reached Out 9/17
+283,Envoy ,Envoy Visitor Management software and Employee Workplace Software for Desk & Room booking,Low,Operational,Installed,Kayla Johnston,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Envoy,Prod,
+285,Epidyolex Campaign Hub,"Comprehensive source for up-to-date creative assets, refined messaging and in-depth strategic guidance.",Medium,Operational,Installed,Ines Saied,Sundeep Gohil,Digital Services Hub fulfiller,Digital Services Hub fulfiller,No,No,Jazz Pharmaceuticals,Prod,
+287,EquityEdge,Database to manage and administer employee equity plans and transactions,High,Operational,Installed,Paz Dizon,Giorgio Grasso,App SNC SAP ERP,App SNC SAP ERP,No,No,Morgan Stanley,Prod,External System but we manage the integration
+288,eRx Solutions,Application to report issues related to electronic health records / electornic medical record any perscribing by sales rep to two labs,Low,Operational,Installed,,Justin Furniss,T2_Commercial_BPS_SN,T2_Commercial_BPS_SN,No,No,eRx Solutions,Prod,Reached Out 9/9
+289,Essiccatori ES9  ES10 Version NA [ESS-BDSM-169],"Dryers
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+296,Eurydice,"Tender software used by Legal and Customer Services to create tender submission documents, view active tenders, and see tender history. Used by a small number of users for French tenders only (contracts between Jazz and public hospitals to agree product pricing for a specific time). Business contacts are Nelly Lepelletier for Legal and Myriam Gamerat for Customer Services.
+
+Application is server hosted and accessed using a remote desktop connection. The application is installed and the servers maintained by T3 - Windows Ops. Support of the application itself is managed by the business directly with the vendor.",Low,Operational,Installed,Myriam Gamerat,Santhosh Reddy Saddi,T3 - Windows Ops,T3 - Windows Ops,No,No,Pharmatic,Prod,Brian Lynch and Michael Hammond have been involved in related tickets. Have asked them for information about the IS support model.
+298,EVault Backup - Prod,a SAAS based offering for Backups of all on-prem server data in Jazz,Low,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Storage and Backup Ops,T3 - Storage and Backup Ops,Yes,No,Carbonite,Prod,EVault Backup
+303,Evidex-Dev,Evidex Safety Signal Management,Medium,Operational,Installed,Oleg Zvenigorodsky,Arvind Reddy Bheemreddy,Application - Evidex,Application - Evidex,Yes,No,TriNetX,Prod,Reached out 8/28
+304,Evidex-Prod,Evidex Safety Signal Management,Medium,Operational,Installed,Oleg Zvenigorodsky,Arvind Reddy Bheemreddy,Application - Evidex,Application - Evidex,Yes,No,TriNetX,Prod,Reached out 8/28
+305,Exchange-Prod,Exchange is a product from Microsoft which facilitates the flow and storage of email for the company.,Critical,Operational,Installed,John Delaney,Russell Low,T3 - MS365 Ops,T4 - MS365,Yes,No,Microsoft,Prod,
+307,Experian Verify,Used by external entities for employment and income verification of US employees,Medium,Operational,Installed,Peggy Wu,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Experian,Prod,
+308,Express Scripts,Mail order presciption services for US employees,Low,Operational,Installed,Christina Bozarth,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Express Scripts,Prod,
+309,EZProxy,EZProxy provides an easy authentication mechanism for the R&D Business group to access several journals and publications without the need for the user laptop to be on the Jazz network. EZProxy will be accessed via Okta SSO.,Medium,Operational,Installed,Roya Bahrami,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,No,No,OCLC,Prod,Reached out 8/28. Awaiting Response
+310,FactoryTalk - Rockwell Automation [PCS-ALE-117],PCS Process Control System / ATM App,Critical,Operational,Installed,Paul Sweeney,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Rockwell Automation,Prod,Followed Up 10/28
+311,FACTS (Fixed and Adaptive Clinical Trial Simulator),Clinical Trial simulation softare to evaluate trial design,Medium,Operational,Installed,Mat Davis,Ting Ting Lo,Application  FACTS,Application  FACTS,No,No,Berry Consultants,Prod,
+313,Fedegari Logger Version 1.1.34 [FED-BDSM-168],"Autoclave AUT3
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+315,Fidelity,Used by US Jazz employees to maintain their 401K accounts & FSA,Medium,Operational,Installed,Christina Bozarth,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Fidelity Investments,Prod,
+316,Fieldglass,"Vendor Management System - used for onboarding, tracking, offboarding contigent workers",Medium,Operational,Installed,Peter Greco,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,SAP,Prod,Followed Up 10/28
+319,Firewall Rule Request,Created to tag while creating a catalog item request for Firewall rule.,Medium,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Network and Firewall,T3 - Network and Firewall,No,No,AWS,Prod,
+320,Flare/Spark,"Flare for ligand and structure-based drug design
+Spark for scaffold hopping and bioisosteric replacement
+
+License renewal : 28-Feb-25
+",Medium,Operational,Installed,Antoine Millet,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Cresset,Prod,Reached Out 9/12
+322,Fogli Excel CQ Version NA [FOG-EXCL-193],"Excel Workbook
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Jazz Pharmaceuticals,Prod,
+324,FTIR Spectrum One Spectrometer [FTIR-ALE-027],Instruments used for checking the composition of a range of substances.,High,Operational,Installed,Andy Bracking,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Agilent Technologies Inc,Prod,
+326,Gamlen,Gamlen instrument connected to PC in B100 at KSP,Low,Operational,Installed,Edward Byrne,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Gamlen Tableting,Prod,
+328,Gastroplus,"A software for modeling and the conducting of simulations of properties of drugs or chemicals including absorption, release rate, bioavailability, pharmacokinetics, and pharmacodynamics
+
+License renewal : 12 Oct 2025
+
+License Key: https://jazzpharma.sharepoint.com/:u:/r/sites/RNCD-ApplicationManagement/Shared%20Documents/General/License%20Files/License%20files/GPAP24_LicenseFile.lic?csf=1&web=1&e=lmLbMG",Low,Operational,Installed,Alan Silcock,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,GastroPlus,Prod,
+330,GEN5 Version 3.1 [GENS-ALE-166],"Microplate reader
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+331,Geneious Prime,"Molecular biology and sequence analysis tool
+
+Software has to link to license server (Flexnet) GXPLICSRV.gwpharm.com:49630 and database ksp-lab-jmp-1.gwpharm.com:5432 (PostegreSQL - Instance: GeneiousDB)
+
+",Medium,Operational,Installed,Edward Byrne,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,"Genesis Research, LLC",Prod,
+334,Github,Created while creating a request for Github access,Medium,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Cloud Ops,T3 - Cloud Ops,No,No,AWS,Prod,
+336,Global Label Artwork Management Systems [GLAMS-LM-099],Global Label Artwork Management System (GLAMS) for approved Artwork and Specifications ,Medium,Operational,Installed,Lorraine Guildea,Paul Smith,T2_BPS_TOQ_Global_Systems,T2_BPS_TOQ_Global_Systems,Yes,No,Perigord,Prod,
+338,GlobalProtect,New Palo Alto GlobalProtect VPN for Users,High,Operational,Installed,Robert Fell,Ashwin Macharla,T3 - Network and Firewall,T3 - Network and Firewall,No,No,Palo Alto Networks,Prod,Sheryl waiting for Robert to approve the change of system owner to Elaine Ediin
+339,Globalsign-Prod,"To create user account and affiliate unique certificates which can be used to sign FDA fillable pdf forms i.e.certificate uniquely identifies users, and is required for sign-up with WebTrader (method through which regulatory submissions are done)",Medium,Operational,Installed,Julia Smith,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,No,No,GMO Global Sign,Prod,Reached out 8/28. Awaiting Response
+344,GNTDC01.gentium.com,Gentium.com Domain Controller,Critical,Operational,Installed,Bill Shieh,Bill Shieh,Security Risk and Compliance,Security Risk and Compliance,No,No,Microsoft Corporation,Prod,11/7 Updated
+345,GNTDC02.Gentium.com,Gentium.com domain controller,Critical,Operational,Installed,Bill Shieh,Bill Shieh,Security Risk and Compliance,Security Risk and Compliance,No,No,Microsoft Corporation,Prod,11/7 Updated
+347,GraphPad Prism,"Visualizing and statistical analysis tool built for scientific research
+
+License detail : License is managed by Rob Rhoad",Medium,Operational,Installed,Barry Liboiron,Rob Rhoads,RNCD_Applications_Support,IS_RNCD_Application,No,No,Graphpad,Prod,Reached Out 9/17
+350,Gurucul Risk Analytics,User Behaviour Analytics tool,High,Operational,Installed,Bill Shieh,Nirali Shah,Security Risk and Compliance,Security Risk and Compliance,No,No,Gurucul Solutions LLC,Prod,11/7: Updated
+352,HCP Digital Dosing Calculator - Web App (US),HCP Digital Dosing Calculator,Medium,Operational,Installed,Tara Bobey,Kenny Low,T2 - IS Comm Global Digital,T2 - IS Comm Global Digital,No,No,Motionstrand,Prod,
+354,Health Cloud,"A linked engagement platform acquires, supports, and engages patients throughout their health journey.",Low,Operational,Installed,Kenny Low,Kenny Low,T2 - IS Comm Global Digital,T2 - IS Comm Global Digital,No,No,Salesforce,Prod,
+356,Herma Labeller,Herma labeller in use at KSP BDP B740,Medium,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Herma UK Ltd,Prod,
+357,HireRight,Employee Background Checks (US),Medium,Operational,Installed,Jessica Liguori,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,HireRight,Prod,
+358,Hoogendoorn,Controlled via a PC in the Glasshouse. Controls environmental conditions in the glasshouse,High,Operational,Installed,Lucy White,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Hoogendoorn,Prod,Followed up 10/22
+359,HPE Insight Remote Support,"HPE Insight Remote Support (Insight RS) is a software solution that provides monitoring, intelligent event diagnosis, and automatic, secure submission of hardware event notifications to HPE, enabling reactive and proactive remote support to improve the availability of supported servers, storage and networking.",Medium,Operational,Installed,Patrick Bala,Julian Papandrea,T2_Infrastructure_Systems,T2_Infrastructure_Systems,No,No,HPE,Prod,
+362,Hyperion,Legacy SAP instance,Medium,Operational,Installed,Roberta Grandini,Giorgio Grasso,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,Yes,No,SAP,Prod,Followed up 10/22
+363,i4i Labelling,Our global labeling platform enables your team to work smarter,Medium,Operational,Installed,Julia Smith,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,No,No,Certara,Prod,This CI looks incorrectly classified and missing the mandatory fields for the appropriate class. Reached out 8/28. Awaiting Response
+365,iContracts-Prod,"System does Monthly and  Quarterly GP (govt programs) Calculations of AMP (Avg Manufacture Price), BP (Best Price), ASP (Avg Selling Price), URA (Unit Rebate Amount), PHS (Public Health Service), NFAMP(Non-Federal Avg Manufacture Price). Calculations are done to be reported to the government using DDR-CMS.
+Used to Medicaid Rebate Processing (receiving invoices from the state and making payment using AX accounts payable) - Rebates to state                                                                   Used to Commercial Rebate Processing - Rebates to GPO (Group Purchasing Org) - only for Fazaclo as of now
+Also does reporting for internal analysis - Sales, Chargebacks, Comm Rebates, Medicaid Rebates",Medium,Operational,Installed,Susan Leveille,Sarang Shah,T2 - IS US Commercial Platforms DevOps,T2 - IS US Commercial Platforms DevOps,No,Yes,RLDatix,Prod,Reached Out 10/2
+366,ICSYNTH,Computer aided synthesis design software,Medium,Operational,Installed,Alberto Orta,Alberto Orta,APP SNC R&D Data Solutions,APP SNC R&D Data Solutions,No,No,DeepMatter Group PLC,Prod,
+368,IdentityNow-Prod,"Identity Governance solution, IdentityNow. ",Medium,Operational,Installed,Srinivas Chittala,Sreejith Venkitachalam Ramachandran,Security IAM ,Security IAM ,No,Yes,SailPoint,Prod,11/4 Updated
+370,iEnvision IST-Prod,"iEnvision IST (Investigator Sponsored Trials), an application provided and managed by Envision Pharma Group, utilized by Medical Affairs for providing scientific research proposal aid and provide support to all who meets the compliance. ",Medium,Operational,Installed,Temire Bob-Egbe,Suhas Thakur,L2 - GMA AMS Non-RNCD,L2 - GMA AMS Non-RNCD,No,No,Envision Pharma Group,Prod,Followed Up 10/29
+371,Ignifi,App for the country teams to order physical approved promotional materials.,High,Operational,Installed,Mar Maraver Palazon,Deborah McQuillan,T3 - IS EU Commercial DevOps,T3 - IS EU Commercial DevOps,No,No,Ignifi,Prod,Followed Up 10/28
+373,Illumio,This application is used to.......,Low,Operational,Installed,Bill Shieh,Bill Shieh,Security Risk and Compliance,Security Risk and Compliance,No,No,Illumio,Prod,
+374,IMS-Prod/OutlierView-Prod,"Contains claim level details related to Medicaid rebates. Contains data by state and by Medicaid program.
+Data used for analytics. 
+This is a supplementary tool containing data of Medicaid utilization process.
+Source of truth is claims data directly from the state. OutlierView is a backup to gather financial data around Medicaid.",Medium,Operational,Installed,Christina Bozarth,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Unknown,Prod,"Sarah Snow says this is an IS Commerical application, so they should have further information. Have asked Aarti who says the team member who knows about it is on leave. Progress in January."
+375,IncentiveTracker-Prod,"Used by EU/RoW salesforce to self assess their performance on quality (e.g. behavioral skills, teamwork, dealing with special projects, etc). The sales manager can evaluate the answers and give a score to sales reps. The score automatically determines the qualitative bonus to be given to the salesforce.",Medium,Operational,Installed,Matteo Mazzola,Deborah McQuillan,T3 - IS EU Commercial DevOps,T3 - IS EU Commercial DevOps,No,No,Primeum,Prod,Followed Up 10/28
+376,InClinico,"InClinico is used to predict clinical trail outcomes
+
+License renewal : 22-Dec-24
+
+License key : No license key/ File as it is a SaaS application
+",High,Operational,Installed,Michael Zhou,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,,No,Insilico,Prod,Reached Out 9/12
+378,Infor EAM Version 11.5 [EAM-BMS-165],"Asset maintenance
+
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Fabio Beretta,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+379,Informatica Cloud - Dev,"As a part of Clean up, we have udpated the Name. ",Medium,Operational,Installed,Vishal Vermani,Bhaskar Nunna,Application - BI and Data Operations,Application - BI and Data Operations,Yes,No,Informatica,Prod,
+380,Informatica Cloud - Prod,"As a part of Clean up, we have udpated the Name. ",Medium,Operational,Installed,Vishal Vermani,Bhaskar Nunna,Application - BI and Data Operations,Application - BI and Data Operations,Yes,No,Informatica,Prod,
+382,Informatica Cloud - Val,"As a part of Clean up, we have udpated the Name. ",Medium,Operational,Installed,Vishal Vermani,Bhaskar Nunna,Application - BI and Data Operations,Application - BI and Data Operations,Yes,No,Informatica,Prod,
+385,Informatica Customer MDM - Prod,"Informatica Customer MDM serves as a hub for consolidating data from multiple sources to create a golden product record. It is a critical component of information management and data governance that focuses on the creation, maintenance, and management of an organization's core product data which will eventually be used to submit data to EMA for DADI/IDMP submissions.",Medium,Operational,Installed,Vishal Vermani,Bhaskar Nunna,Application - BI and Data Operations,Application - BI and Data Operations,Yes,No,Informatica,Prod,
+391,Informatica Integrations - Prod,Enterprise Cloud Data Management and Data Integration,Medium,Operational,Installed,Vishal Vermani,Bhaskar Nunna,Application - BI and Data Operations,Application - BI and Data Operations,Yes,No,Informatica,Prod,
+395,Informatica JDC - Prod,"Jazz Data Catalog Platform
+As a part of Clean up, we have udpated the Name. 
+",Medium,Operational,Installed,Vishal Vermani,Bhaskar Nunna,Application - BI and Data Operations,Application - BI and Data Operations,Yes,No,Informatica,Prod,
+399,Informatica Product MDM - Prod [MDM-ED-132],"Informatica Product MDM serves as a hub for consolidating data from multiple sources to create a golden product record. It is a critical component of information management and data governance that focuses on the creation, maintenance, and management of an organization's core product data which will eventually be used to submit data to EMA for DADI/IDMP submissions.",Medium,Operational,Installed,Amy Williams,Bhaskar Nunna,Application - BI and Data Operations,Application - BI and Data Operations,Yes,No,Informatica,Prod,
+419,Infrastructure-Solarwinds,"Its an IT Monitoring tool. Monitors servers, networks, Applications and Databases",High,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Cloud Ops,T3 - Cloud Ops,No,No,SolarWinds,Prod,Solarwinds Monitoring tool
+425,Ingenuity Path Analysis," Ingenuity pathway analysis to predict downstream effects, identify new targets or candidate biomarkers and more
+
+License renewal : 4-Jul-25
+",Medium,Operational,Installed,Emanuele Loro,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,,No,Qiagen,Prod,Reached Out 9/12
+426,Inova-Prod,"Tracking corp development deals, partner obligations/timing
+Drug safety uses this to track vendor obligations/timing
+By Q2-Q3 2018, to be used as a repository for compliance documentation (e.g due diligence) specific to EU/RoW and to track important timelines",Medium,Operational,Installed,Christopher Dougherty,Kieran Galvin,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Inpart,Prod,Recommended to contact John Sisto about this application. Waiting for a response.
+428,Instem Send,Analysis of SEND data sent by CROs to GW Research (Pre-Clinical),High,Operational,Installed,Karuna Sachdeva,Alberto Orta,APP SNC R&D Data Solutions,APP SNC R&D Data Solutions,No,No,Instem,Prod,Reached out
+429,Instem Submit,Version control of SEND data sent by CROs to GW Research (Pre-Clinical),High,Operational,Installed,Karuna Sachdeva,Alberto Orta,APP SNC R&D Data Solutions,APP SNC R&D Data Solutions,No,No,Instem,Prod,Reached out
+431,International Consent MDM,International - Managing consent from field & websites,Medium,Operational,Installed,Ajay Kara,Deborah McQuillan,T3 - IS EU Commercial DevOps,T3 - IS EU Commercial DevOps,No,No,SHYFT Analytics Inc,Prod,Followed Up 10/28
+432,Intune,"Microsoft Intune is a cloud-based endpoint management service that enables companies to securely manage corporate and BYOD phones, tablets, and computers. It provides visibility into the health, compliance, and security-status of managed devices, helping to protect company data, and is also used to build and deploy devices and applications.",Low,Operational,Installed,David Jackson,Rob Rhoads,T3 - EUC - Client Engineering,T3 - EUC - Client Engineering,No,No,Microsoft,Prod,
+434,ISI Toolbox,It is a PDF styling tool used by Regulatory Operations to create and validate electronic Common Technical Document (eCTD) submission and non-eCTD electronic submission (NeeS). ,Medium,Operational,Installed,Julia Smith,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,No,No,"DXC Technology Company (""DXC"")",Prod,This CI looks incorrectly classified and missing the mandatory fields for the appropriate class. Reached out 8/28. Awaiting Response
+436,Itarus (Pasara Artwork),Artwork Management System for automated workflow in the design and approval of regulated artwork and packaging specifications,Medium,Operational,Installed,Susie Bruins,Paul Vince,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Itarus Limited,Prod,
+437,IVEA [QLIK-VAS-071],Signal Detection and data outputs to aid aggregate Periodic Reporting of AE related data done outside of Argus(E2B gateway) IVEA V1.0.3 ,Medium,Operational,Installed,Kseniya Tsimberg,Jiten Patel,App SNC RD PV Analytics ,App SNC RD PV Analytics ,Yes,No,Jazz Pharmaceuticals,Prod,Reached Out 9/11
+442,JamsUS-Prod,"Provides the ability for the Sales reps and MSLs to access and record interactions/call when they go and see a doctor or visit hospitals to describe Jazz products (Xyrem, Prialt, Erwinaze etc). Provides access to HCP (Health Care Professionals) and HCO (Health Care organizations) database. Provides the ability to view and show the Jazz approved digital content (Product Brochures, materials etc and send approve promotional e-mails).",High,Operational,Installed,Danielle Heneks,Vishv Goyal,T2 - IS US Commercial Platforms DevOps,T3 - IS US Commercial Platforms DevOps,No,No,Veeva Systems,Prod,
+443,Jazz Argus [ARG-DSAE-072],"AE Processing & Reporting for all of Jazz's products across the world.
+During study only SAE (Serious Adverse Event) are recorded in Argus. For post-marketed drugs all AEs are recorded in Argus.",Critical,Operational,In Maintenance,Femi Adams,Arvind Reddy Bheemreddy,Application - PV,Application - PV,Yes,No,Oracle,Prod,
+444,Jazz Clinical Data FActory (Eluminate software) [ECS-CDM-075],"Provides integrated data storage and service capabilities for all clinical studies to harmonize multi-purpose data visualizations, interactive medical monitoring, and advanced data analytics",Medium,Operational,Installed,Alex Crawford,Bijal Shah,Application - GCDO,Application - GCDO,Yes,No,eClicnical Solutions,Prod,Reached Out 9/3
+445,Jazz docuBridge - PROD, An app that enables the publication of regulatory compliant documents for submission to global regulatory agencies.,Critical,Operational,Installed,Julia Smith,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,Yes,No,LORENZ,Prod,Manufacturer just needs to be added and this record will be complete.
+447,Jazz Email Protect,Threat protection & encryption software for all incoming & outgoing emails of Jazz domain.,Low,Operational,Installed,Bill Shieh,Bill Shieh,Security Risk and Compliance,Security Risk and Compliance,No,No,Proofpoint,Prod,11/7 Updated.
+448,Jazz PVI [RXL-DSAE-094],Adverse Event Intake and Triage System,Critical,Operational,In Maintenance,Femi Adams,Arvind Reddy Bheemreddy,Application - PV,Application - PV,Yes,No,RxLogix Corporation,Prod,AE Patient Intake system
+449,Jazz Vault RIM (Prod) [V-RIM-102],"Author, review and approve documents to be submitted to regulatory authorities as well as track and manage global licensing status. Consists of 3 modules - Submissions; Submissions Archive; Registration.",Medium,Operational,Installed,Gareth Markham,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,Yes,No,Veeva Systems Inc,Prod,Reached out 8/28. Awaiting Response
+451,JazzAgree,"management of all legal contracts (request, review, approve and storage).
+
+The vendor is provided by DK Cloud Consulting. ",High,Operational,Installed,Rachel Ralston,Betty Pierce,Application - JazzAgree T1,Application - JazzAgree T1,No,No,Conga (Apptus),Prod,Reached Out 9/3
+453,JazzCloud-Prod,"JazzCloud is a software product that will be used to provide Infrastructure reporting and management capabilities. The product is designed to provide real time automation by integrating and consolidating data from major platforms, including ServiceNow and Amazon Web Services (AWS)",Low,Operational,In Maintenance,Santhosh Reddy Saddi,Vidyadhar Barge,T4 - Infra Ops and Engineering,T4 - Infra Ops and Engineering,No,No,Jazz Pharmaceuticals Inc.,Prod,
+454,JazzEngage,"An end-to-end global supplier risk management system to assess, remediate and manage the risk the organisation is exposed to due to its relationship and interactions with its suppliers.",High,Operational,Installed,Phillip Starling,Phillip Starling,App SNC JazzEngage,App SNC JazzEngage,No,Yes,Mitratech,Prod,"JazzEngage is an end-to-end global tool, designed to help all business owners engage suppliers while providing a method for assessing/managing risk
+a workflow that flows the right information to the right subject matter expert, in a timely manner
+a guided process, auto-populates fields for you, asking only the questions related to the type of agreement and supplier services you are engaging and providing transparency throughout the process
+a process designed with input from risk assessment experts"
+456,JazzLearn (Cornerstone SBX) U60 [SABA-LMS-076],"Learning and Development (training courses/curriculum/documents and delivery of training, and training records/certification) for all Jazz Employees and Contingent Workers",Medium,Operational,Installed,Lidia Reynor,Les Anastasiou,App SNC JazzLearn,App SNC JazzLearn,Yes,No,SABA (Cornerstone),Prod,
+458,JazzLearn-Prod-Non-GxP,"Learning and Development (training courses/curriculum/documents and delivery of training, and training records/certification) for all Jazz Employees and Contingent Workers",High,Operational,Installed,Lidia Reynor,Tracy Kemp,App SNC JazzLearn,App SNC JazzLearn,No,No,SABA (Cornerstone),Prod,
+460,JazzLit,"Provides the ability for sales reps to order and ship marketing materials, such as brochures, etc. to medical professionals and prescribers.",,Operational,Installed,Kenny Low,Vishv Goyal,T2 - IS US Commercial Platforms DevOps,T3 - IS US Commercial Platforms DevOps,No,No,,Prod,
+465,JazzRhythm-JazzPlan - Prod,"JazzPlan - R&D Project Management, Resource management and forecasting
+JazzRhythm-  Resource allocation tracking (time tracking)",Medium,Operational,Installed,Melquiades De Jesus,Rachael DePasquale,Application - Planisware,Veeva Promomats Approval,No,No,Planisware,Prod,Reached Out 9/17
+466,JazzVault RIM (JV RIM),"Author, review and approve documents to be submitted to regulatory authorities as well as track and manage global licensing status. Consists of 3 modules - Submissions; Submissions Archive; Registration",Medium,Operational,Installed,Gareth Markham,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,No,No,Veeva Systems,Prod,Reached out 8/28. Awaiting Response
+470,Jira [JIRA-ALM-066],Agile planning tool used in conjunction with Clarity and qTest to manage CSV,Low,Operational,Installed,Adrian Horne,Simon Frost,T2_IS Compliance,T2_IS Compliance,No,No,Atlassian,Prod,
+471,JMP,"JMP empowers users to explore and analyze data visually, solve critical problems and then share those insights to make stronger data-driven decisions
+
+License renewal : 14-Jul-24
+",Medium,Operational,Installed,Sherwin Xie,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,JMP,Prod,Reached Out 9/12
+478,Lab Solutions (TOC 2) Version 1.88 [LABS-CDS-164],"TOC
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Shimadzu UK Ltd,Prod,
+479,LabAdvisor [ALA-CMS-022],Agilent software on laptops used to connect to instruments for troubleshooting and maintainance,High,Operational,Installed,Mark Abbitt,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Agilent Technologies Inc,Prod,
+480,LabSolutions UV-Vis [SHI-ALE-115],Created as request INC0141829. Details were limited.,Medium,Operational,Installed,Willie McCormack,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Shimadzu UK Ltd,Prod,Followed Up 10/28
+481,LabSolutions [LSIR-ALES-101],Created as request INC0141829. Details were limited.,Medium,Operational,Installed,Willie McCormack,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Shimadzu UK Ltd,Prod,Followed Up 10/28
+482,LabWare LIMS [LAB-ALE-116],LIMS,Critical,Operational,Installed,Willie McCormack,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Labware,Prod,Followed Up 10/28
+483,Labware-Dev,LIMS,Low,Operational,Installed,Willie McCormack,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Labware,Prod,Followed Up 10/28
+484,Labware-VAL,LIMS,Medium,Operational,Installed,Willie McCormack,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Labware,Prod,Followed Up 10/28
+485,LabX 2017 Version 1 [LABX-ALE-163],"Spectrophotometer  UV
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Mettler Toledo,Prod,
+488,Lead Discovery,"An RNCD application
+
+License renewal : 1-Dec-25
+
+Licesne key : There isn't an activation key and the library is managed by the administrators (Alberto Orta  and Antoine Millet)
+",Medium,Operational,Installed,Antoine Millet,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Perkin Elmer,Prod,Reached Out 9/12
+489,Leadscope,"Leadscope model applier: Easy-to-use software to apply prediction models, perform an expert review, and create reports.
+
+License renewal : Credit based. Purchased 6000 credits  on  10 April 24
+
+License Key : https://jazzpharma.sharepoint.com/:u:/r/sites/RNCD-ApplicationManagement/Shared%20Documents/General/License%20Files/License%20files/Lead%20Scope.xml?csf=1&web=1&e=xwVdlV
+",High,Operational,Installed,Dino Manca,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Instem,Prod,Reached Out 9/12
+493,Lhasa Derek,"DEREK Nexus® is a modeling software which can be used to predict the likely toxicity of any given chemical structure, as well as offer detailed reasoning as to why. It provides predicyions for over 50 toxicological endpoints, including mutagenicity, chromosome damage, carcinogenicity, skin sensitisation and reproductive toxicity
+
+License renewal : 31-Dec-24
+",Medium,Operational,Installed,Dino Manca,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,Yes,No,Lhasa Limited,Prod,Reached Out 9/12
+495,Library Services,To obtain needed references - article retrieval platform,Medium,Operational,Installed,Roya Bahrami,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,No,No,Library Services,Prod,
+496,Light Cycler 480 Version 1.5.1 [LC-ALE-162],"Quantitative PCR (qPCR)
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+497,LIMS SampleManager [SM-LIMS-023],"Sample, process and procedure management system to streamline laboratory activities and demonstrate compliance with associated regulatory requirements.
+Requires Samsung Galaxy S6 tablet",High,Operational,Installed,Andy Bracking,Paul Smith,T2_BPS_TOQ_Global_Systems,T2_BPS_TOQ_Global_Systems,Yes,No,ThermoFisher Scientific,Prod,
+498,LineMaster [LIN-ALE-119],Serialisation / ATM App Optel,Critical,Operational,Installed,Paul Sweeney,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Jazz Pharmaceuticals,Prod,Followed Up 10/28
+499,LinkedIn Learning,"Service is now up and running again; a new licence agreement was signed for the service.
+
+***** this service has now been temporarily retired******
+It is under review and not accessible at present
+1.	There is a service interruption for Linkedin Learning. We are working through contract negotiations to get it up and running again as soon as possible. For now, we removed the Okta tile to avoid confusion and will add it back in once it's restored. 
+2.	We are sunsetting Jazz Practice Room as of this week. The tile and Jazz Learn link will be removed and jazz Learn will be replaced with a message directing them to Linkedin Learning (which for now, just says check back soon). 
+
+Online educational platform",Low,Operational,Installed,Wendy Twist,Phillip Starling,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,LinkedIn,Prod,Is now available to all staff L-GW and L-Jazz as the Jazz damil address and SSO is now utilised. Reached Out 9/17
+500,LinkFixer,"LinkTek LinkFixer is a tool that automatically protects and fixes links when you move or rename files (including to SharePoint). This can be used to support data migrations, server refreshes, file-system restructures, or any other project that involves moving or renaming files that contain links to other files.",Low,Operational,Installed,John Delaney,Darren Heinrichsen,T4 - MS365,T4 - MS365,No,No,LinkTek,Prod,Servers created for the GW Pharma Tenant migration project for fixing the Sharepoint Links using the LinkTek Link Fixer Tool.
+501,Linux,Linux OS,High,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Linux Ops,T3 - Linux Ops,No,No,Linux,Prod,
+502,Litera ChangePro,"Enhance document writing productivity. DocXTools is a document repair tool to help repair and style the documents to Jazz standards. ChangePro is a comparison tool that detrects the changes in the document. Content Companion is a content library accessible directly with MS Word that allows easy storage, retrieval and distribution of approved information.",Medium,Operational,Installed,Aubri Charboneau,Padma Saripally,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,No,No,Litera,Prod,Reached Out 9/16
+504,Litera Content Companion-Prod,"Enhance document writing productivity. DocXTools is a document repair tool to help repair and style the documents to Jazz standards. ChangePro is a comparison tool that detrects the changes in the document. Content Companion is a content library accessible directly with MS Word that allows easy storage, retrieval and distribution of approved information.",Medium,Operational,Installed,Aubri Charboneau,Padma Saripally,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,No,No,Litera,Prod,Reached Out 9/16
+505,Litera DocXTools,"Enhance document writing productivity. DocXTools is a document repair tool to help repair and style the documents to Jazz standards. ChangePro is a comparison tool that detrects the changes in the document. Content Companion is a content library accessible directly with MS Word that allows easy storage, retrieval and distribution of approved information.",Medium,Operational,Installed,Aubri Charboneau,Padma Saripally,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,No,No,Litera,Prod,Reached Out 9/16
+506,Litmos,Learning management system (LMS),Low,Operational,Installed,Elise Conlee,Aarthi Sampath,T2 - IS US Commercial Platforms DevOps,T2 - IS Comm Onmichannel Support,No,No,SAP Litmos,Prod,
+507,LiveOffice,"System stores a copy of all incoming and outgoing emails indefinitely for Jazz domain for Legal Hold purposes.
+
+Betty to investigate this item as may be obsolete now due to Office 365 implementation.",High,Operational,Installed,Daniel Epstein,Betty Pierce,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Veritas Software,Prod,This refers to Veritas. Reached Out 9/3
+508,LiveRamp,Maps data to individual profiles,Low,Operational,Installed,Benjamin Clark,Kenny Low,T2 - IS Comm Global Digital,T2 - IS Comm Global Digital,No,No,LiveRamp,Prod,
+509,LogicManager-Prod,GRC Platform,High,Operational,Installed,Robert Fell,Elaine Ediin,T2_Information_Security_SN,T2_Information_Security_SN,No,No,LogicManager,Prod,Updated on December 4th.
+511,Lorenz eValidator?,"LORENZ eValidator is the most-used validation software in the industry and with agencies, ensuring submission compliance globally. As a validator for eCTD and many other formats, it ensures that all submissions are technically compliant with EMA and USFDA regulations.",Low,Operational,Installed,Julia Smith,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,No,No,LORENZ,Prod,Manufacturer just needs to be added and this record will be complete.
+512,LyraHealth,"Behavioral health matching service for employees with licensed health practitioners. Also facilitates communication between employee and HCP via chats, video calls.
+Member has to answer a set of questions first regarding their behavioral health. Based on the answers, the system suggests the HCPs.",Medium,Operational,Installed,Christina Bozarth,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Lyra Health,Prod,
+514,Malvern Mastersizer [MMS-ALES-093],Instrument used to measure the particle size and particle size distribution of materials,Low,Operational,Installed,Nicole Nash,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Malvern Instruments,Prod,
+515,Malvern Zeta Sizer Pro Red,Particle size measurements,Medium,Operational,Installed,Aidan O'Connor,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Malvern Panalytical Limited,Prod,Created while on a call with Eoin Murtagh
+517,Man Down System,Man down system in use at KSP for EHSS requirements,Low,Operational,Installed,Roy Elphick,Adam Reynolds,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,ANTelecom,Prod,
+518,Marketing Cloud - EU/Intl,Marketing automation and customer engagement platform for the EU/Intl,Low,Operational,Installed,Kenny Low,Kenny Low,T2 - IS Comm Global Digital,T2 - IS Comm Global Digital,No,No,Lev,Prod,
+519,Marketing Cloud - US,Marketing automation and customer engagement platform for the US,Low,Operational,Installed,Kenny Low,Kenny Low,Application - Marketing Cloud,Application - Marketing Cloud,No,No,Salesforce,Prod,
+521,MassHunter Acquisition and Quantitative Analysis Software [AMH-CDS-028],Mass spectrometry (MS) application software connected to a GCMS,Low,Operational,Installed,Mark Abbitt,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Agilent Technologies Inc,Prod,
+522,MassLynks Version 4.1 [MLYN-CDS-161],"LCMS
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Waters Corporation,Prod,
+523,MATLAB,"MATLAB combines a desktop environment tuned for iterative analysis and design processes with a programming language that expresses matrix and array mathematics directly. It includes the Live Editor for creating scripts that combine code, output, and formatted text in an executable notebook.
+
+License renewal : 31-May-25
+",Medium,Operational,Installed,Jean G Stevens,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Mathworks,Prod,Reached Out 9/12
+524,Maximo CMMS [MAX-CMMS-024],"Computerised Maintenance Management System. Engineering Asset Management, Calibration, and maintenance Scheduling (IBM)
+Requires iPad model 7th Gen 10.9"" ",High,Operational,Installed,Roy Elphick,Paul Smith,T2_BPS_TOQ_Global_Systems,T2_BPS_TOQ_Global_Systems,Yes,No,IBM,Prod,
+528,MedChemica MC Pairs ,"Medicinal Chemistry Software
+
+License renewal : 23-Feb-26
+",Medium,Operational,Installed,Kostas Rampalakos,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Medchemica,Prod,Reached Out 9/12
+530,MedComms-Prod,"Veeva Vault MedComms is a regulated Medical Affairs content management application that supports content creation, review, approval, storage, management, and distribution through integrated CRM applications like CLM and Approved Email.",Medium,Operational,Installed,Love Hubbard,Suhas Thakur,Application - JazzVault MedComms,Application - JazzVault MedComms,No,No,Veeva Systems,Prod,Followed Up 10/29
+531,MedDRA,Hierarchical Medical Coding dictionary used to code Adverse Events and Medical Histories ? - used with  Argus and SAS,High,Operational,Installed,RENI KUNKEL,,Application - PV,Application - PV,Yes,No,MSSO,Prod,
+534,Medidata Platform [MED-PLTF-026],"The Medidata Platform is a cloud-based system with suites of applications where both software and data are maintained by the Vendor (Medidata Solutions, Inc.). Each application is delivered via Software-as-a-Service (SaaS) and consists of specific environments in-use at GW that have been specifically configured using existing, confirmed functionality with customisations to satisfy intended use requirements.",High,Operational,Installed,Mohit Goel,Bijal Shah,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,Yes,No,Dassault Systemes,Prod,
+535,Medidata Rave Coder [RC-CTDMS-055],Medidata Rave Coder is a solution that works out of the box with Medidata Rave EDC.  This is a centralized coding environment that maintains the drug and safety dictionaries.  This allows mapping between the terms entered in Rave EDC to describe adverse events and concomitant medications with the terms found in industry standard dictionaries such as MedDRA and WhoDrug.  This tool does not store any data.,Low,Operational,Installed,Sreenivas Dontha,Bijal Shah,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,Yes,No,Dassault Systemes,Prod,"System In use, remediation plan to be put in place"
+536,Medidata Rave eCOA  [RECOA-CTDMS-057] ,"Medidata Patient Cloud® is a comprehensive and regulatory compliant mobile health (mHealth) solution that accelerates patient-centric clinical research. Patient Cloud enables sponsors to collect data and consent from patients using mobile apps and sensors that capture a richer, more complete dataset directly from the patient, and integrate with clinical data on the Medidata Rave Clinical Cloud. Rave eCOA apps are part of the Medidata Patient Cloud suite of products. It is a product that features apps that allow study participants in clinical trials run by Medidata Rave to complete and submit forms and data for patient-reported outcomes electronically. The current Rave eCOA apps are Patient Cloud iOS and Patient Cloud Android.",High,Operational,Installed,Farid Miah,Bijal Shah,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,Yes,No,Dassault Systemes,Prod,
+537,Medidata Rave EDC [RAVE-EDC-042],"Medidata Rave EDC is the GW solution for capturing, managing and reporting clinical trial research data in Phase I through IV studies.?? This system is a part of the Medidata Rave Clinical Cloud platform which  integrates with other Rave applications (e.g. Coder,RTSM, eCOA, Safety Gateway, CTMS) and unifying data and workflows across the studies.? GW is responsible for managing the oversight of the eCRF database creation, monitoring, and data management activities done by external vendors for GW-sponsored clinical trials.",High,Operational,Installed,Sreenivas Dontha,Bijal Shah,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,Yes,No,Dassault Systemes,Prod,"System In use, remmediation plan in place and ongoing activities being scheduled/completed"
+538,Medidata Rave RTSM [RTMS-CTDMS-058],Rave RTSM is a Randomization and Trial Supply Management (RTSM) solution that works in conjunction with Rave EDC.,High,Operational,Installed,Farid Miah,Bijal Shah,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,Yes,No,Dassault Systemes,Prod,
+539,Medidata Rave Safety Gateway [RSG-CTDMS-061],This is a conduit between RAVE EDC and Argus Safety Database,High,Operational,Installed,Sreenivas Dontha,Bijal Shah,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,No,No,Dassault Systemes,Prod,
+540,Medidata Rave TSDV,"Rave TSDV (targeted Source Data Verification) is a turnkey solution that allows life science companies to reduce the amount of SDV conducted without sacrificing regulatory compliance or data quality strategies. Patients are assigned to pre-configured SDV regimens (focused on critical data) as they are enrolled, enabling study teams to achieve desired coverage levels.",High,Operational,Installed,Vijay Chundru,Bijal Shah,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,Yes,No,Dassault Systemes,Prod,
+544,Melody (Moveworks),"Melody is an AI Virtual Assistant provided by Moveworks, an approved external supplier. Melody can help find answers to your IS and HR questions and can raise HR and IS tickets for you, all through Microsoft Teams Chat.",Low,Operational,Installed,Chris Caulton,Ivo Vybiral,Digital Workplace Solutions,Digital Workplace Solutions,No,No,"Moveworks, Inc.",Prod,
+546,Mentimeter,"Application used to create presentations with real-time feedback
+Limited use in Jazz, licenced on an Ad-Hoc requirement via Chris Carlton
+https://www.mentimeter.com/",Low,Operational,Installed,Chris Caulton,Klarisse Duffy,Digital Workplace Solutions,Digital Workplace Solutions,No,No,Mentimeter,Prod,https://www.mentimeter.com/
+547,Mestrelab Mnova,"Mnova is a multivendor software suite designed for combined NMR, LC/GC/MS and Electronic & Vibrational Spectroscopic techniques.
+
+License renewal : 22-Sep-24
+",Medium,Operational,Installed,John Warren,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,MestreLab,Prod,Reached Out 9/12
+548,Metasys Version 6.5.0.5500 [META-EMS-160],"Environmental control
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+549,MetricStream,"MetricStream is a software company that provides Governance, Risk, and Compliance (GRC) solutions. Jazz is using the Risk modules for third-party vendor questionaires and managing risk exception requests risk treatment plans.",Medium,Operational,Installed,Elaine Ediin,Elaine Ediin,SGRC,SGRC,No,No,Unknown,Prod,
+550,MFG VDI,This application CI is used while creating the AWS VDI for the MFG Domain in the UK region.,Low,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,App SNC JazzVDI,App SNC JazzVDI,No,No,AWS,Prod,Reached Out 10/28
+551,MFT,GoAnywhere Managed File Transfer (MFT),High,Operational,Installed,Patrick Bala,Vidyadhar Barge,Application - Managed File Transfer (MFT),Application - Managed File Transfer (MFT),Yes,No,HelpSystems,Prod,
+553,MIC-Prod,MIC is the medinfo case management system.,Medium,Operational,In Maintenance,Leo Solomon,Suhas Thakur,L2 - GMA AMS Non-RNCD,L2 - GMA AMS Non-RNCD,No,No,KomodoHealth,Prod,
+555,Microlab [MIC-ALE-112],WIN-UV Spectrophotometer / ATM App,Medium,Operational,Installed,Willie McCormack,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Jazz Pharmaceuticals,Prod,Followed Up 10/28
+556,MicroLog Version 6.2 [MIC-ALE-159],"Microplate Reader
+
+
+
+",Medium,Operational,Installed,Vijay Kumar,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+557,Microsoft 365,"Provides subscription-based access to Microsoft services including Microsoft Office, Outlook, Teams, Exchange Online, Yammer, OneDrive for Business, SharePoint Online, and other SaaS-based business applications.",High,Operational,Installed,John Delaney,Russell Low,T3 - MS365 Ops,T4 - MS365,No,No,Microsoft,Prod,
+558,Microsoft Azure,"Microsoft Azure is a cloud computing service for building, testing, deploying, and managing applications & services through Microsoft-managed data centers.",Medium,Operational,Installed,John Delaney,Russell Low,T3 - MS365 Ops,T3 - MS365 Ops,No,No,Microsoft,Prod,
+560,Microsoft Dynamics NAV [NAV-ERP-032],"Microsoft Navision or Microsoft Dynamics NAV is an ERP (Enterprise Resource Planning) solution built by Microsoft to aid business management. At Jazz Pharmaceuticals, it is the legacy GW financial accounting system which is being replaced by SAP as part of Project Harmony.",Low,Operational,Installed,Carmel Marren,Giorgio Grasso,T2_Finance_Support_SN,T2_Finance_Support_SN,No,Yes,Microsoft,Prod,Followed Up 10/28
+561,Microsoft Edge,Microsoft Web Browser ,Low,Operational,Installed,David Jackson,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,No,No,Microsoft,Prod,Reached Out 9/17
+562,Microsoft Endpoint Configuration Manager,"Provides systems management for large groups of computers running Windows, macOS, Linux or UNIX, as well as mobile operating systems including iOS and Android.  Includes the following capability: remote control, patch management, software distribution, operating system deployment, network access protection and hardware and software inventory.",High,Operational,Installed,Rob Rhoads,Rizwan Ayub,T3 - EUC - Client Engineering,T3 - EUC - Client Engineering,No,No,Microsoft,Prod,"Riz, please add relationships to Infrastructure. Update Data Location & Strategic Disposition"
+563,Microsoft Exchange,Microsoft Exchange Server is a mail server and calendaring product developed by Microsoft.  It runs exclusively on Windows Server operating systems.,High,Operational,Installed,John Delaney,Russell Low,T3 - MS365 Ops,T4 - MS365,No,No,Microsoft,Prod,
+564,Microsoft Office,Microsoft Office,Medium,Operational,Installed,Rob Rhoads,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,No,No,Microsoft,Prod,Reached Out 9/17
+565,Microsoft Project,Microsoft Project Desktop tool/software,Low,Operational,Installed,David Jackson,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,No,No,Microsoft,Prod,Reached Out 9/17
+568,Microsoft Teams,Microsoft Teams is a video and audio conferencing application installed on client machines and video conferencing devices across the company.,High,Operational,Installed,John Delaney,Briege Ibanez,T3 - MS365 Ops,T4 - MS365,No,No,Microsoft Corporation,Prod,
+569,Microsoft Teams Phone System,"Microsoft Teams Phone is Microsoft's technology for enabling call control and Private Branch Exchange (PBX) capabilities in the Microsoft 365 cloud with Microsoft Teams.
+Teams Phone works with Teams clients and certified devices. Calls between users in organization are handled internally within Teams Phone, and never go to the Public Switched Telephone Network (PSTN)--thereby removing long-distance costs on internal calls.",Critical,Operational,Installed,Chris Caulton,Briege Ibanez,T3 - Unified Communications,T4 - AV and Unified Communications,No,No,Microsoft,Prod,
+570,Microsoft Teams Rooms,Microsoft Teams Rooms is a meeting room specific variation of the Microsoft Teams application used across the company.  It is installed on video conferencing devices such as Crestron Flex and Logitech TAP. ,Critical,Operational,Installed,John Delaney,Briege Ibanez,T3 - Unified Communications,T4 - AV and Unified Communications,No,No,Microsoft,Prod,
+571,Microsoft Visio,Microsoft Visio application,Low,Operational,Installed,Rob Rhoads,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,No,No,Microsoft,Prod,Reached Out 9/17
+572,Microsoft Viva,"Microsoft Viva is an employee experience platform integrated into MS365. At Jazz Pharmaceuticals, Viva Engage (an employee communication platform) and Viva Insights (a tool that empowers employees to enhance their productivity and well-being through data-driven insights and recommendations) have been enabled for users.",Low,Operational,Installed,John Delaney,Darren Heinrichsen,T3 - MS365 Ops,T4 - MS365,No,No,Microsoft,Prod,
+574,Microsoft WebView2 Runtime,"Edge Plugin allowing developers to embed web content, like HTML, JavaScript, and CSS, into Windows applications",Low,Operational,Installed,Rob Rhoads,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,No,No,Microsoft,Prod,Reached Out 9/17
+575,Mighty Runt Automated Actuator [MRA-ALE-030],Instrument used to measure the actuations of spray bottles,Medium,Operational,Installed,Mark Abbitt,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,InnovaSystems Inc,Prod,
+576,Minitab [MTB-SAT-096],"Statistical Analysis software in use by KSP and other sites
+Current license agreement 90 users to be renewed in May 2024
+Application is requested via the Service request portal - https://jazz.service-now.com/sp?id=sc_cat_item_guide&sys_id=ef35a87b1b697990b5b8eb92b24bcbbe
+Application is deployed by assigning a license to a user, the user is sent an email with a download link which they will need local admin to install
+Application is available for all Jazz users
+Application licenses can be assigned by the Service Desk - https://licensing.minitab.com/
+Version deployed as of March 2024 is Minitab 21",Low,Operational,Installed,Jemma Marenghi,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Minitab,Prod,
+578,Mirashare,"EHSS System for tracking of health and safety Incidents, near misses, Safety risk assessments and audits.
+They don't have a SNOW queue, so contact Kayleigh Edwards for the user or direct the user to them.",Low,Operational,Installed,Kayleigh Edwards,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Mirashare,Prod,
+579,Miro,"Miro is an online, collaborative whiteboard platform, that enables collocated, distributed, and remote teams to communicate and collaborate across formats, tools, channels, and time zones  without the constraints of a physical location, meeting space, and whiteboard.",Low,Operational,Pending Install,Chris Caulton,Klarisse Duffy,T2_Miro_Support,T2_Miro_Support,No,No,Miro,Prod,
+582,Mobile Epidiolex Digital Dose Calculator [EODC-MDSW-025] ,Epidiolex Mobile Dosing Calculator (EDDC) for Android and iOS devices allows HCPs to calculate a recommended dose based on patient weight and prescribed dosage.,Medium,Operational,Installed,Jim Baker,Sundeep Gohil,T1_US_Helpdesk_SN,T2_Commercial_BPS_SN,Yes,No,Motionstrand,Prod,Followed Up 10/29
+583,Molecular Operating Environment (MOE),"A drug discovery software platform that integrates visualization, modeling and simulation, and method development
+
+License renewal : 31-Oct-24
+",High,Operational,Installed,Paolo Di Fruscia,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,MOE,Prod,Reached Out 9/12
+585,Mulino M4 Version NA [MUL-BDSM-158],"BDS Milling
+
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Siemens,Prod,
+586,MV-70-TTS Carton Serialiser [LMV-BDSM-031],Packaging Machinery with intergrated IPC. Prints and verifies data on finished packs,Medium,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Laetus,Prod,VSR-14030-R1
+587,MyCentrax Cytel Version 3.1.0 [MYC-EMS-157],"Alarm System
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Federico Tintori,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+588,N2WS Backup,AWS instance backup tool ,High,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Storage and Backup Ops,T3 - Storage and Backup Ops,No,No,AWS,Prod,
+589,NANOSIGHT-Prod,NANOSIGHT / ATM App,High,Operational,Installed,Willie McCormack,Eoin Murtagh,Athlone Information Systems,Athlone Information Systems,Yes,No,Malvern Instruments,Prod,Followed Up 10/28
+591,Net2,Security access system they have in the UK to create card keys for employees to enter the building.,Medium,Operational,Installed,Sam Hills,Faris Mosis,T2 - Service Desk On-Site UK,T3 - Cloud Ops,No,No,Paxton,Prod,Sever is CAM-DES-001
+592,Netskope CASB,Cloud Based Security Broker,High,Operational,Installed,Bill Shieh,Bill Shieh,T2_Information_Security_SN,T2_Information_Security_SN,No,No,Netskope,Prod,11/7: Updated
+593,Network - AWS Loadbalancers,used while creating aws load balancer related catalog request,High,Operational,Installed,Patrick Bala,Ashwin Macharla,T3 - Network and Firewall,T3 - Network and Firewall,No,No,AWS,Prod,
+595,Network-Infoblox,Infoblox serves DHCP for all the sites,High,Operational,Installed,Patrick Bala,Ashwin Macharla,T3 - Network and Firewall,T3 - Network and Firewall,No,No,AWS,Prod,
+596,Network-PAN Firewall VM's,This application has not been updated for a long time and is missing mandatory and recommend fields.,Critical,Operational,Installed,Patrick Bala,Ashwin Macharla,T3 - Network and Firewall,T4 - Network and Firewall,No,No,Palo Alto Networks,Prod,Doesn't seem to relate to a specific application. Further investigation needed. Reached Out 9/3.
+599,NonMem,"A software for analyzing population Pharmacokinetic/Pharmacodynamic (PK/PD) data in particular.
+
+License renewal :14-May-25
+",High,Operational,Installed,Yali Liang,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,Yes,No,ICON Clinical Research Limited,Prod,Reached Out 9/12
+600,NONMEM,Non-linear mixed-effects (NLME) modeling for pharmacometrics,Medium,Operational,Installed,Yali Liang,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,ICON Clinical Research Limited,Prod,
+601,nQuery,"Statistical tool for biometrics
+[NOTE: Retire in March 2024]",Low,Operational,In Maintenance,Dan Checketts,Ting Ting Lo,Application - nQuery,Application - nQuery,No,No,nQuery (Statsols),Prod,
+602,Nudge,Financial wellbeing platform ,Low,Operational,Installed,Shanice Silvera,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Unknown,Prod,
+607,OKTA-Prod,"Okta is a SAAS based system from OKTA used for storage of Jazz data globally.
+This is an Identity Management product which facilitates single sign on by interacting with AD. Stores a list of users and list of applications that have been setup on OKTA and which users have access to.",Critical,Operational,Installed,Srinivas Chittala,Srinivas Chittala,Security IAM ,Security IAM ,Yes,No,Okta,Prod,11/4 Updated
+609,Omics Hub - PROD,"Omics Hub is a bioinformatics request portal, this portal will be used to raise and manage request for Omics data analysis for study analysis for study and bioinformatics team.",High,Operational,Installed,Emanuele Loro,Ting Ting Lo,L2 - DS AMS Non-RNCD,L2 - DS AMS Non-RNCD,No,No,Jazz Pharmaceuticals,Prod,
+613,OneTrust-Prod,"OneTrust helps organizations collect, govern, and use data while maintaining visibility and control. It builds trust, measures and manages risk, and enables compliance with hundreds of privacy and security laws, including the CCPA, GDPR, and ISO 27001.",Low,Operational,Installed,Rachel Ralston,Betty Pierce,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,OneTrust LLC,Prod,Only needs manufacturer to complete.
+615,Openlab per Biochrom Version 3.4 [OLAB-ALE-155],"Amino acid analyzer
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+616,OpenLab Version 2.1 (GCMS) [OLAB-CDS-154],"GCMS
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Agilent Technologies Inc,Prod,
+617,OpsManager,OpManager monitoring tool for Network devices.,Low,Operational,Installed,Patrick Bala,Ashwin Macharla,T3 - Network and Firewall,T3 - Network and Firewall,No,No,Manage Engine,Prod,
+618,OQCDashboard-Prod,Oversight Individual Case Study Report (ICSR) quality assessment,Low,Operational,Installed,Sokol Petushi,Amanda Tedesco,App SNC RD PV Analytics ,App SNC RD PV Analytics ,Yes,No,Jazz Pharmaceuticals,Prod,RETIRE in 2025
+628,Oracle Health Sciences ClearTrial,"Trial Projection  & Forecasting. Supports study scenarios planning, budget forecasting ; cost benchmarking for CROs (Contract Research Organisations)?",Medium,Operational,Installed,Kelly Artherholt,Padma Saripally,Application - GCDO,Application - GCDO,No,No,Oracle,Prod,
+629,OriginPro,"Data Analysis and Graphing Software
+
+License renewal : 10-Oct-24
+",Medium,Operational,Installed,Barry Liboiron,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Origin Lab,Prod,Reached Out 9/12
+630,Other,This is a CI to be used as placeholder for incident/sctask closed by automation via  Moveworks or any other application.,Low,Operational,Installed,Terri Pavlovic,Neha Pasrija,ServiceNow Administrators,ServiceNow Administrators,No,No,Jazz Pharmaceuticals,Prod,
+631,Paddock Wood Monitoring System,Eurotherm Extractor monitoring. Temperature & Pressure monitoring of the Paddock wood Extraction process,Medium,Operational,Installed,Graham Healy,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Siemens,Prod,
+632,PAM-Prod,"Enterprise-wide password safe and priviliged access management (e.g. password lifecycle, audit trails, etc) for systems that can be controlled e.g. accounts that are authenticated thru AD, local servers.",Medium,Operational,Installed,Srinivas Chittala,Srinivas Chittala,Security IAM ,Security IAM ,No,No,Delinea,Prod,BEYONDTRUST is the Vendor for PAM. Reached Out 10/28
+633,PAN-Prod,Firewall IPS IDS - Palo Alto Network,Critical,Operational,Installed,Patrick Bala,Ashwin Macharla,T3 - Network and Firewall,T4 - Network and Firewall,No,No,Palo Alto Networks,Prod,Reached Out 9/3.
+635,PandaOmics,"PandaOmics is an AI-enabled biological target discovery platform. It utilizes advanced deep learning models and AI approaches to predict the target genes associated with a given disease through a combination of Omics AI scores, Text-based AI scores, financial scores, and Key opinion leader (KOL) scores, and is currently being employed in both academic and industry settings. 
+
+License renewal : 22-Dec-24
+",High,Operational,Installed,Emanuele Loro,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Insilico,Prod,
+636,Pannello Operatore Eurotherm Eycon 10 Version NA [PAN-PCS-183],"Reactor R1
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Siemens,Prod,
+637,PaperCut,"PaperCut is a print management service that integrates with printers, photocopiers and MFDs to monitor and control print output with simple, easy to use administrative tools that can be accessed anywhere on the network.",Medium,Operational,Installed,Kayleigh Edwards,Richard Gash,T2 - Service Desk On-Site UK,T2 - Service Desk On-Site UK,No,No,Papercut Software,Prod,
+639,Paraly per phmetro PHP4 Version SW112 [PHP-ALE-149],"PH measurement 
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+647,Phoenix WinNonLin & NLME,"Phoenix NLME is a population modeling and simulation software for scientists with varying levels of experiencefrom novice PK/PD scientists to the most advanced modelers.
+Phoenix WinNonlin's integrated tools for data processing, graphing & charting, report generation and compliance creates an efficient, all-in-one collaboration workbench.
+
+License renewal :  20-Sep-25",High,Operational,Installed,Yali Liang,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Certara,Prod,
+649,Pinnacle 21 Enterprise,"Software as a Service (SaaS) solution used to validate datasets and documents according to CDISC standards (e.g. SDTM, ADaM, Define-XML) and regulatory agency business rules, in accordance with GxP regulatory requirements as well as functionality of Define-XML creation.",Low,Operational,Installed,Megan Dunham,Ting Ting Lo,L2 - DS AMS Non-RNCD,L2 - DS AMS Non-RNCD,No,No,Pinnacle 21,Prod,Reached Out 10/2
+650,Pion Predictor ,"An enhanced data processing and management platform that allows you to analyze dissolution and flux data to get dissolution rates, precipitation kinetics, and predicted fraction absorbed ratio
+
+License renewal :  18-Jun-25
+",Medium,Operational,Installed,Karolina Biegaj,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Pion,Prod,Reached Out 9/12
+655,"PKI
+(Public Key Infrastructure)",To issue and verify digital certificate for endpoint and users.,Low,Operational,Installed,Bill Shieh,Bill Shieh,Security Risk and Compliance,Security Risk and Compliance,No,No,Digicert,Prod,Updated on 11/7
+656,PLA 3.0 Version 3.0 [PLA-ALE-180],"Statistical analysis
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+657,PlanSource,HR - Benefits (US),Medium,Operational,Installed,Sarah Snow,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,PlanSource,Prod,
+658,Plant Genome Data Mining (Germinate),Linux data miner,Low,Operational,Installed,Edward Byrne,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,GW Pharmaceuticals.,Prod,
+660,PLC Eurotherm + pannello Eycon 20 Version NA [EUR-PLC-184],"Acetone column C2
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+661,PLC Eurotherm Bartec Version NA [EUR-PCS-192],"Reactor R1
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Siemens,Prod,
+662,PLC Eurotherm T2750 Visual Manager + pannello Eycon 20 Version NA [EUR-PCS-190],"Reactor R25/45
+
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Siemens,Prod,
+663,PLC Eurotherm T2750 Visual Manager + pannello Eycon 20 Version NA [EUR-PCS-191],"Reactor R30
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Siemens,Prod,
+664,PLC Siemens Simatic S7-300 + Bartec Polaris Panel Version NA [SIE-PCS-189],"Reactor FSE
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Siemens,Prod,
+665,PLC Siemens Simatic S7-300 Version NA [SIE-PCS-188],"Water purification
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Siemens,Prod,
+666,PLC23 Eurotherm [EUR-PCS-187],"Acetone column C3
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+668,PM Solutions(PubsHub),"Document management and control (collaboration, review & approval) of publications/scientific journals",Medium,Operational,Installed,Brian Scheckner,Suhas Thakur,L2 - GMA AMS Non-RNCD,L2 - GMA AMS Non-RNCD,No,No,ICON PLC,Prod,Followed Up 10/29
+670,Polaris-Prod,Medical education grant request management system,Medium,Operational,Installed,Eleana Hardy,Suhas Thakur,L2 - GMA AMS Non-RNCD,L2 - GMA AMS Non-RNCD,No,No,IQVIA,Prod,Followed Up 10/29
+673,Power Apps,App building automation tool. Part of Power Platform.  ,Medium,Operational,Installed,Debby Chen,Amit Gore,Enterprise Automation,Enterprise Automation,No,No,Microsoft,Prod,Reached Out 8/28
+674,Power Automate,The automation and workflow suite withing the MS365 Power Platform.,Medium,Operational,Installed,Terri Pavlovic,Amit Gore,T3 - MS365 Ops,Enterprise Automation,Yes,No,Microsoft Corporation,Prod,Followed up 10/22
+676,Power BI,"Used for Software Ordering requests in ServiceNow, automated, no approvals needed.",Low,Operational,Installed,John Delaney,Shwetabh Suman,T3 - EUC - Client Engineering,T3 - EUC - Client Engineering,No,No,Microsoft,Prod,Reached Out 10/2
+677,Power BI,Microsoft Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence. It is part of the Microsoft Power Platform.,Low,Operational,Installed,David Jackson,John Delaney,T3 - EUC - Client Engineering,T3 - EUC - Client Engineering,No,No,Microsoft,Prod,
+679,Primeum Share,Used by commercial excellence to upload EU/Row sales employee data to be used by Premium SNC to set up users for Incentive Tracker portal.,Low,Operational,Installed,Reza Sekhri,Reza Sekhri,T1 - Service Desk Cognizant,T1 - Service Desk Cognizant,No,No,Primeum,Prod,Reached Out 9/17. not supported by IS as it is an external webv platform
+684,PRISYM 360 [PRISYM-ELS-039],"Out-of-the-box application for printing clinical trials labels and replacing use of spreadsheets and/or paper documents for management of phrase tables with stored English phrases and translations to multiple languages, regulatory rules capability provides automated checks of label content to specified country regulations and electronic approvals for phrases/translations and label designs.
+Zebra Label printer ZT410 and ZT420",High,Operational,Installed,Jason Gillespie,Paul Smith,T2_BPS_TOQ_Global_Systems,T2_BPS_TOQ_Global_Systems,Yes,No,PrisymID,Prod,Reached Out 9/16
+686,ProCepT SD2 Application [PSD-BDSM-044],Spray dryer system with IP65 HMI and product chilling capability ( Spray Dryer 0003 Spray Dryer 0004 ),Medium,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,ProCepT,Prod,Followed up 10/22
+687,Production Torque Tester,Torque Tester for Bottle Caps - verifys caps have been applied to the specified torque,Low,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Mecmesin Ltd,Prod,
+689,PromoMats-Prod,Review and approval platform for promotional and selected non-promotional materials.,Medium,Operational,Installed,Love Hubbard,Suhas Thakur,Application - JazzVault PromoMats,Application - JazzVault PromoMats,No,No,Jazz Pharmaceuticals,Prod,Followed Up 10/29
+692,Proofpoint,Proofpoint - Phishing Campaigns and Security Training,Critical,Operational,Installed,Bill Shieh,Bill Shieh,Security Risk and Compliance,Security Risk and Compliance,No,No,Proofpoint,Prod,11/7 Updated.
+694,Provision an Environment,Created to tag while creating a catalog request for Provision an Environment request,Low,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Cloud Ops,T3 - Cloud Ops,No,No,AWS,Prod,
+696,Pyris,Pyris Software for control of the Perkin Elmer DSC 8000 (Differential Scanning Calorimeter)  For characterising the molecular stability of dilute in-solution biomolecules,Low,Operational,Installed,Nicole Nash,Alan Booth,T1 - Service Desk Cognizant,T2_BPS_TOQ_KSP,Yes,No,Perkin Elmer,Prod,Client: GXPDSCCLI01
+697,QlikView,"BI platform used for PV Signal Detection, Reporting, and PV Operational Analytics",Low,Operational,Installed,Sokol Petushi,Amanda Tedesco,App SNC RD PV Analytics ,App SNC RD PV Analytics ,Yes,No,QlikTech International AB,Prod,Potentially a duplicate of other records named 'QlikView-Prod' and 'Recons & Reports (QlikView)' - need Amanda to confirm.
+699,QlikView-Prod,BI platform used to perform inline ICSR quality assessment.,Low,Operational,Installed,Sokol Petushi,Amanda Tedesco,App SNC RD PV Analytics ,App SNC RD PV Analytics ,Yes,No,QlikTech International AB,Prod,Potentially a duplicate of other records named 'QlikView' and 'Recons & Reports (QlikView)' - need Amanda to confirm.
+701,QR code platform (Pharmagenesis),Hosted provider for QR codes,Low,Operational,Installed,,Justin Furniss,T2_Commercial_BPS_SN,T2_Commercial_BPS_SN,No,No,Pharmagenesis,Prod,Reached Out 9/9
+702,QTegra Version 2.4 [QTE-ALE-181],"ICP-OES
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+703,QTEST [QTEST-ALM-056],A software testing and approvals toolset provided by Tricentis See VERA [VERA-ALM-056] for the approval ,Low,Operational,Installed,Adrian Horne,Simon Frost,T1 - IS Compliance,T2_IS Compliance,Yes,No,Tricentis,Prod,IS_Compliance_Change_Management
+704,Qualys,Periodic scanning of Jazz systems for vulnerabilities,Low,Operational,Installed,Bill Shieh,Bill Shieh,Security Risk and Compliance,Security Risk and Compliance,No,No,Qualys,Prod,11/7 Updated.
+705,QuestADBackup,This application has not been updated for a long time and is missing mandatory and recommend fields.,Low,Operational,Installed,Bill Shieh,Alan Bunn,Security Risk and Compliance,Security Risk and Compliance,No,No,Quest Software,Prod,11/7 Updated
+706,R&D MasterSizer 3000 (B735.2), Mastersizer 3000 uses the technique of laser diffraction to measure the particle size and particle size distribution of materials.,Low,Operational,Installed,Huzaifah Patel,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Malvern Instruments,Prod,Client GXPMASCLI01
+708,Radius Service,This application has not been updated for a long time and is missing mandatory and recommend fields.,Medium,Operational,Installed,Patrick Bala,Ashwin Macharla,T3 - Network and Firewall,T4 - Network and Firewall,No,No,Sun Microsystems,Prod,Reached Out 9/3.
+709,Rainbow R6,The In-Situ UV Probe-Based Dissolution System. The Rainbow R6 provides concentration measurements in real time,Low,Operational,Installed,Huzaifah Patel,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Pion,Prod,
+710,Real Life Sciences (RLS) Protect,"RLS Protect is a redaction and anonymization solution that will accelerate our submissions in this space, including Health Canada PRCI, EMA Policy 70, CTIS submissions, and CT.gov Final Rule. Prime automates the search and classification of personal data, and allows us to create submissions that are compliant with varying regional standards. In addition, Prime will allow us to search and mark Confidential Business Information (CBI), enabling us to own the CBI portions of these submissions in-house. ",Low,Operational,Installed,Thomas Chmielewski,Padma Saripally,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,No,No,Real life sciences,Prod,
+711,Reaxys,"Reaxys is built on expert-curated chemistry information and enriched with cutting-edge technology. It is also the leading database for bioactivity data. Scientists in corporate R&D and academia gain actionable insights that lead to innovation, while saving time and money. Reaxys also supports teaching excellence in chemistry education.
+
+License renewal :  ",Medium,Operational,Installed,Antoine Millet,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Elsevier,Prod,Reached Out 9/12
+716,Redshift - PROD,Redshift - PROD,High,Operational,Installed,Bhaskar Nunna,Shwetabh Suman,Application - BI and Data Operations,Application - BI and Data Operations,No,No,Amazon.com,Prod,
+719,Registratore Videografico Version NA [REG-PCS-153],"Reactor R1
+
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+721,Regulatory Intelligence Platform,This application has not been updated for a long time and is missing mandatory and recommend fields.,Medium,Operational,Installed,Claire Beggs,Aishwarya Hemanth,Application - GCDO,Application - GCDO,No,No,AWS,Prod,
+727,Reltio - Prod,source of truth for cleansed US customer master (HCP/HCO details) to be consumed by JAMS (Veeva) for the sales team to access customer data,High,Operational,Installed,Bhaskar Nunna,Bhaskar Nunna,Application - BI and Data Operations,Application - BI and Data Operations,No,No,Reltio,Prod,
+734,RHEL-Satellite,"Red Hat Enterprise Linux® Satellite is an infrastructure management product specifically designed to keep Red Hat Linux® environments and other Red Hat infrastructure running efficiently, with security, and compliant with various standards.",Low,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Linux Ops,T3 - Linux Ops,No,No,Red Hat,Prod,
+735,Rheometer [RHEO-ALE-029] ,Lab Instrument with PC software interface for measurement of flow and distortion of properties,Medium,Operational,Installed,Nicole Nash,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Malvern Instruments,Prod,
+736,RightFind-Prod,"RightFind enables R&D professionals to search, discover, access, read, share, organize, collaborate on and analyze content to generate data-driven insights.",Medium,Operational,Installed,Roya Bahrami,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,No,No,Copyright Clearance Center,Prod,Manufacturer just needs to be added and this record will be complete.
+737,RiskSense,Vulnerability Scanning,High,Operational,Installed,Robert Fell,Michelle Tran,T2_Information_Security_SN,T2_Information_Security_SN,No,Yes,RiskSense,Prod,11/7 Updated
+739,RMR-Prod,Risk Management Reporting Dashboard,High,Operational,Installed,Vandana Patodiya,Jiten Patel,Application - PV,Application - PV,Yes,No,Universal Biosource Corporation,Prod,Reached Out 9/11
+741,RMS (Rotronic Monitoring System) [BMS-EMS-139]," Environmental monitoring for equipment and working areas (temperature, relative humidity, pressure)",Low,Operational,Installed,Roy Elphick,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Rotronic,Prod,
+769,RRD Fulfillment Portal (CustomPoint),Medical and marketing material warehousing and distribution,High,Operational,Installed,Blythe Brandon,Justin Furniss,T2_Commercial_BPS_SN,T2_Commercial_BPS_SN,No,No,RR Donnelley,Prod,Reached Out 9/9
+771,Rstudio - Prod,Rstudio-Dev,High,Operational,Installed,Vishal Vermani,Shwetabh Suman,Application - BI and Data Operations,Application - BI and Data Operations,Yes,No,RStudio,Prod,
+774,Safety Media,Online reporitory for Safety training material,Low,Operational,Installed,Kayleigh Edwards,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,DeltaNet International Limited,Prod,Followed up 10/22
+778,Sandbox,Secured Sandbox for users to perform sandbox and POC,Low,Operational,Installed,Ting Ting Lo,Ting Ting Lo,Application - SAS,Application - SAS,No,No,,Prod,
+783,SAP BW,transitioning/transforming data from AX to BPC; reporting transactional data from AX,High,Operational,Installed,Carmel Marren,Giorgio Grasso,App SNC SAP ERP,App SNC SAP ERP,No,Yes,SAP,Prod,Followed Up 10/28
+786,SAP ERP-Prod,"Accounting, Procurement, Customer Service, Inventory Management System",Critical,Operational,Installed,Patricia Carr,Jimmy Singpurwala,App SNC SAP ERP,App SNC SAP ERP,Yes,Yes,SAP,Prod,
+790,SAP S4 HANA [SAP-ERP-105],"professional system for finance and supply chain, all other departments use it for approving procurement activities
+They use iPad model 10th Gen 10.9"" - mpq13b/a - Apple Business Manager (Intune build: Tech OPs) 
+RF Guns - Peak Horizzan (Giorgio Grasso)",Critical,Operational,Installed,Philip Lavelle,Giorgio Grasso,App SNC SAP ERP,App SNC SAP ERP,Yes,Yes,SAP,Prod,Reached out 9/04
+791,Sarah Nexus,"A statistical-based software which can help you to meet ICH M7 by identifying potentially toxic chemicals through the prediction of mutagenicity.
+
+License renewal : 31-Dec-24
+",Medium,Operational,Installed,Dino Manca,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,Yes,No,Lhasa Limited,Prod,Reached Out 9/12
+793,Sartocheck Version 3.1.3 [SAR-BDSM-152],"Check filter integrity
+
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+795,SAS Server,"System that contains both statistical analysis tool (i.e. programming language) used to analyse raw data received as part of clinical trial to interpret clinical trial results for reg submissions, and a server that manages, controls, version controls, and stores all clinical study related data processed by Biostatistics team (raw data, randomization list, analysis results, SAS programs, etc).",Critical,Operational,Installed,Megan Dunham,Ting Ting Lo,L2 - DS AMS Non-RNCD,L2 - DS AMS Non-RNCD,Yes,No,"d-Wise Technologies, Inc.",Prod,Reached Out 10/2
+796,SCCM-Prod,"Centralized Desktop and server management (gather hardware & software inventory, software distribution, patching, etc)",Low,Operational,Installed,David Jackson,Rob Rhoads,T3 - EUC - Client Engineering,T3 - EUC - Client Engineering,No,No,Microsoft,Prod,Reached Out 9/17
+798,SciFinder,"CAS SciFinder is your one true source for authoritatively identifying a chemical substance and its related chemical structures, chemical names, regulatory information and properties including CAS Registry Numbers®, reaction schemes, step-by-step experimental procedures, detailed conditions and product yields.",Low,Operational,Installed,Alan Silcock,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,CAS,Prod,
+799,Scopus,"Publication subscriptions - its part of our Elsevier subscriptions bundled together with ScienceDirect, Embase, PharmaPendium, and Reaxys. ",Low,Operational,In Maintenance,Roya Bahrami,Aishwarya Hemanth,L2 - GRA AMS Non-RNCD,L2 - GRA AMS Non-RNCD,No,No,Library Services,Prod,
+801,Seconday Intelligence," Secondary Intelligence software is the only tool available to address this translational challenge.
+
+Predict off-target adverse events, earlier, faster and cheaper
+Streamline and standardize your secondary pharmacology analysis
+Increase confidence in risk assessment and go/no go decisions
+
+License renewal :  ",Medium,Operational,Installed,Madhu Varadarajan,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,Yes,No,Certara,Prod,Reached Out 9/12
+802,Secret Server,Password Vault,High,Operational,Installed,Srinivas Chittala,Srinivas Chittala,T2_Information_Security_SN,T2_Information_Security_SN,No,No,Thycotic,Prod,11/7 Updated
+804,Security awareness training,This CI has been created for a new Phishing Campaign,Medium,Operational,Installed,Elaine Ediin,Elaine Ediin,T2_Information_Security_SN,T2_Information_Security_SN,No,No,Proofpoint,Prod,11/7 Updated
+805,SEND Explorer,"SEND Explorer® is a validated, web-based application designed by scientists to provide advanced viewing, data summarization, and visualization capabilities for nonclinical study data. 
+
+License renewal :  9-Aug-23
+",High,Operational,Installed,Karuna Sachdeva,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,Yes,No,Certara,Prod,Reached Out 9/12
+806,SendGrid,E-mail transfer from websites,High,Operational,Installed,Benjamin Clark,Kenny Low,T2 - IS Comm Global Digital,T2 - IS Comm Global Digital,No,No,SendGrid,Prod,
+808,Serialisation-Prod,"Serialisation Data Repository -  provisioning of serial numbers to uniquely identify all saleable units of Jazz US and EU drug products 
+Compliant with EU FMD (Falsified Medicines Directive) as of 9th of Feb 2019 i.e. sending serial data of all Jazz products sold in EU to a cenralised hub within Europe.",Critical,Operational,Installed,Lorraine Guildea,Eoin Murtagh,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,Yes,No,Tracelink,Prod,Followed Up 10/28
+815,ServiceNow-Prod,"ServiceNow is a software platform provided by ServiceNow Inc headquartered in Santa Clara, California that supports IT service management and automates common business processes. This software as a service (PaaS) platform contains a number of modular applications that can vary by instance and user.  GW's instance was originally setup by Point B.",Medium,Operational,Installed,David Jackson,Neha Pasrija,ServiceNow_Support_SN,ServiceNow_Support_SN,Yes,No,ServiceNow,Prod,
+818,SharePoint Online,SharePoint is a collection of enterprise content management and knowledge management tools developed by Microsoft.,High,Operational,Installed,John Delaney,Darren Heinrichsen,T4 - MS365,T4 - MS365,Yes,Yes,Microsoft,Prod,Followed up 10/222
+820,Shimadzu GCMS (client 2),Shimadzu  gas chromatography Mass Spectrometer analystical instrument,Low,Operational,Installed,Sujira Hossain,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Shimadzu UK Ltd,Prod,Client PC: GXPSHGCCLI02
+821,Shimadzu ICP,Shimadzu Inductively Coupled Plasma Analysis instrument,Low,Operational,Installed,Sujira Hossain,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Shimadzu UK Ltd,Prod,
+822,Shimadzu LC,Shimadzu Liquid Chromatogrpahy Instrument ,Low,Operational,Installed,Sujira Hossain,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Shimadzu UK Ltd,Prod,Client PC: GXPSHLCCLI01
+823,Shimadzu Nexara SFC,Shimadzu Supercritical Fluid Chromatography Instrument,Low,Operational,Installed,Sujira Hossain,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Shimadzu UK Ltd,Prod,Client PC: GXPSHNXCLI01
+831,SigmaPlot,"SigmaPlot provides all the fundamental tools you need to analyze your data from basic statistics to advanced mathematical calculations.
+
+License renewal : Perpetual license
+",Medium,Operational,Installed,Barry Liboiron,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Grafiti LLP,Prod,Reached Out 9/12
+832,SigmaPlot,"Statistical analysis tool installed on a small number of local user PCs (David Norris and Xin Miao). App is installed by EUC and/or the Service Desk, the users otherwise support the application themselves.",Low,Operational,Installed,Xin Miao,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,Yes,No,Systat Software Inc,Prod,
+833,Simca,"SIMCA® is to do your own data mining, multivariate calibration and predictive modeling.  SIMCA® takes data science out of its silo, empowering R&D, Operations, Quality Engineers, and PATs with the multivariate tools, data visualizations 
+
+License renewal : 24-Aug-24
+",Low,Operational,Installed,Alan Silcock,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Sartorius,Prod,Reached Out 9/12
+834,Sistema ABB DCS Version 6.3.02 [DCS-PCS-151],"DCS
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+835,Sistema di pulizia CIP 1 Version NA [CIP-PCS-150],"Reactor cleaning system
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+836,Site Access (SiPass),System for the control of access to buildings and locations across Kent Science Park,Low,Operational,Installed,Kayleigh Edwards,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Siemens,Prod,
+837,Slab,Data Science deliverable tracking Tool,Medium,Operational,Installed,Megan Dunham,Ting Ting Lo,L2 - DS AMS Non-RNCD,L2 - DS AMS Non-RNCD,No,No,Slab,Prod,Reached Out 10/2
+838,Smartsheet,"Software as a service (SaaS) offering for collaboration and work management, developed and marketed by Smartsheet Inc. It is used to assign tasks, track project progress, manage calendars, share documents, and manage other work, using a tabular user interface Integrates with Clarity",Low,Operational,Installed,Chris Caulton,Darren Heinrichsen,App SNC JazzSmartsheet,App SNC JazzSmartsheet,No,No,Smartsheet,Prod,
+840,SolarWinds,"Provides comprehensive monitoring enabling quick detection, diagnosis and resolution of network, server, application and database problems and outages, increasing troubleshooting speed and service levels, whilst reducing downtime.",Medium,Operational,Installed,Patrick Bala,Patrick Bala,T2_Infrastructure_Systems,T2_Infrastructure_Systems,No,No,SolarWinds,Prod,
+841,Sonrai,Omics Analysis Platform for BioInformatics analysis,Low,Operational,Installed,Emanuele Loro,Ting Ting Lo,L2 - DS AMS Non-RNCD,L2 - DS AMS Non-RNCD,No,No,Sonrai Security Inc.,Prod,
+842,Source To Pay,"Source-to-Pay is also referred to sometimes as Coupa. It is a business spend management platform used for Indirect purchasing.
+The application manages the whole source to pay process which spans  the following business processes:
+
+- Sourcing
+- Supplier Onboarding & Information Management
+- Supplier Risk & Performance
+- Contracting
+- P2P: Purchase Requisitioning, Purchase Orders, Receipts, Invoicing and Payment
+
+It interfaces with a number of other systems most notably SAP but also Okta, Sailpoint and Docusign.
+
+There are 2 releases planned for 2023:
+
+May 2023 Release: 
+- Artificial Intelligence Classification (AIC) Release; this is for the Procurement Category Managers only to do their Spend Reporting. 
+- Sourcing Release; this is for the Procurement Category Managers only to conduct sourcing events with/for the business
+
+December 2023 Release:
+- Full Release for Entity 1200 only (Jazz Pharamceuticals Ireland).
+- Accessible to Jazz FTEs and selected CWs to conduct Indirect Procurement.
+- Accessible to Entity 1200 Purchasers and Approvers along with Functioal teams from Legal, Procurement, Risk and Finance.
+- Full means all the business processes fromSourcing through to Payments and everything inbetween.
+
+Q1 2024 Release:
+- Release extends across all Entities in addition to 1200.",High,Operational,Installed,Kimberly Deadman,Phillip Starling,T2_IS_Corporate_BPS_S2P_SN,T2_IS_Corporate_BPS_S2P_SN,No,Yes,Coupa,Prod,
+845,Splunk,Centralized Logging and SEIM,Low,Operational,Installed,Michelle Tran,Michelle Tran,T2_Information_Security_SN,T2_Information_Security_SN,No,No,Splunk,Prod,11/7 Updated
+849,Spotfire,"Service designed to deploy Spotfire accelerators to Clinical Study Teams to enable real-time analysis and data visualisations
+Access to Spotfire is deployed via an Okta group and assigned to the Security IAM Team
+If a client install is required assign to T3 - EUC - Client Engineering to deploy via Company Portal",Medium,Operational,Installed,Antoine Millet,Alberto Orta,Security IAM ,Security IAM ,No,No,Amazon EC2,Prod,
+851,StartingPoint,Scientific Data,Medium,Operational,Installed,Aubri Charboneau,Padma Saripally,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,No,No,Accenture,Prod,Reached Out 9/16
+852,Strumento Palltronic MM01 Version NA [STR-PCS-186],"Monitors the integrity of Palltronic filters
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+853,Strumento Palltronic MM03 Version NA [STR-PCS-185],"Monitors the integrity of Palltronic filters
+
+
+",Medium,Operational,Installed,Stefano Mandressi,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+855,Submit,"The submit platform provides a suite of integrated tools and services for the creation and management of SEND datasets and associated documents for Contract Research Organizations (CROs) and Sponsors.
+
+License renewal :  Not to be renewed
+
+",Medium,Operational,Installed,Karuna Sachdeva,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,,No,Instem,Prod,Reached Out 9/12
+857,Surface Texture Analyser,Lab Instrument  used in Technical R & D to measure the texture of surfaces of  components,Low,Operational,Installed,Alejandro Montellano López,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Stable Micro Systems,Prod,
+859,Symcyp,Simcyp PBPK Simulator is a platform for population-based physiologically based modeling and simulation of drug performance.,Medium,Operational,Installed,Madhu Varadarajan,Yali Liang,RNCD_Applications_Support,IS_RNCD_Application,No,No,Certara,Prod,
+861,Syslog,Syslog ,Medium,Operational,Installed,Patrick Bala,Ashwin Macharla,T3 - Network and Firewall,T3 - Network and Firewall,No,No,Linux,Prod,
+867,Tableau - Prod,Visualization platform used for Commercial Analytics,High,Operational,In Maintenance,Vishal Vermani,Bhaskar Nunna,Application - BI and Data Operations,Application - BI and Data Operations,No,No,Tableau,Prod,
+869,TACACS,"TACACS+ is an Authentication, Authorization, and Accounting (AAA) protocol originally developed for the U.S. Department of Defense for authentication to network devices such as routers, switches, and firewalls. TACACS+ simplifies network administration and increases network security by centralizing management of users on your network and enabling you to set granular access policies by users and groups, command, location, time of day, subnet, or device type. The TACACS+ protocol also gives you a complete log of every user's login, what commands were used, when they were entered, and where they came from.",Medium,Operational,Installed,Patrick Bala,Ashwin Macharla,T3 - Network and Firewall,T3 - Network and Firewall,No,No,TACACS,Prod,12/4 Updated
+870,Tamper Evident Labeller & Bollini,Packaging Machinery intergrated with intergrated IPC,High,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Herma UK Ltd,Prod,
+871,TeamConnect,"Jazz uses system for Legal Matter invoice workflow, itemized review/approval of all legal external counsel services and reconciliation against legal budget",Medium,Operational,Installed,Daniel Epstein,Betty Pierce,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,Yes,Mitratech,Prod,
+877,Test Automation Framework TAF-ALM-126,"Jazz Pharmaceuticals use the Test Automation Framework as part of the quality management system to automate part of the Company's Computerised System Validation function, to automate process workflow scenario testing. The activities performed and records maintained in Test Automation Framework support the execution of the company's Computer system validation procedures and is part of the quality system, with an indirect impact on patient safety, product quality, or data integrity.  As such, the data managed within the system is not determined to be an electronic record within the scope of predicate rules.",Low,Operational,Installed,Simon Frost,Raja Akbar,IS_Compliance_Change_Management,IS_Compliance_Change_Management,No,No,Jazz Pharmaceuticals,Prod,
+878,TESTO COMFORT Version 4.5 [TES-ALE-182],"Data logger temperature probe
+
+
+
+
+
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+879,Testo Saveris Version 5.2 [TES-EMS-148],"Environmental control
+
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+880,Thermogravimetric Analysis Instrumentation (TGA) ,"Thermogravimetric Analysis Instrumentation (TGA)  - Measures the mass of a sample over time as the temperature changes. This measurement provides information about physical phenomena, such as phase transitions, absorption, adsorption and desorption; as well as chemical phenomena including chemisorptions, thermal decomposition, and solid-gas reactions (e.g., oxidation or reduction)",Low,Operational,Installed,Alejandro Montellano López,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Perkin Elmer,Prod,For the MS part of the equipment the vendor is Hiden 
+881,Tiamo,Taimo system in B735,Low,Operational,Installed,Jonathon Whitehouse,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,Metrohm,Prod,Installed on Client GXPMTRCLI01
+882,Tiamo Version 3 [TIA-ALE-147],"Titrators, Karl Fisher
+
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Metrohm,Prod,
+883,TIBCO Spotfire,"Spotfire enables the rapid build of sophisticated, interactive visual data science applications using a point-and-click experience. It combines visual analytics, data science, and data wrangling to allow experts to analyze data at-rest, in-motion, and at-scale, improving business-critical operations and daily decision-making. At Jazz, Spotfire accelerators are used by Clinical Study teams to perform real-time analysis and create data visualisations. Access is provided by Security IAM via an Okta group. The client is deployed by T3 - EUC - Client Engineering.",High,Operational,Installed,,,Security IAM ,Security IAM ,No,No,TIBCO,Prod,Madhu asked for information about this app.
+884,TOC-V Version 2.3 [TOC-CDS-146],"TOC
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Shimadzu UK Ltd,Prod,
+885,Torx,"Torx Software is a cloud-based DMTA (design-make-test-analyze) application which supports hypothesis-driven drug design and facilitates real-time information exchange to streamline your drug discovery process. 
+
+License renewal :  25-Jun-25
+",High,Operational,Installed,Antoine Millet,Madhu Varadarajan,RNCD_Applications_Support,IS_RNCD_Application,No,No,Torx,Prod,Reached Out 9/12
+886,TQ Analyst Version 9.8.208 [TQA-ALE-145],"FT-NIR
+
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Thermo Fisher Scientific,Prod,
+887,Tracelink Global - T&T Serialisation [STL-AME-088],Cloud based SaaS for data transfer of serialised batch data to commercial markets,High,Operational,Installed,Lorraine Guildea,Alan Booth,T2_BPS_TOQ_Global_Systems,T2_BPS_TOQ_Global_Systems,Yes,No,TraceLink Inc,Prod,
+889,Tracker,i9 and e-verification service for new hires in US only.,Low,Operational,Installed,Jessica Liguori,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Mitratech,Prod,
+890,Tripwire,"File Integrity Monitoring solution. Keeps endpoints in a stable and known configuration. Reports when important system files are modified. (Portal: https://tripwireinc.force.com/; Contact: Chuck Gray, Systems Engineer; chuckgray@tripwire.com; mobile: 1-209-986-1202; Customer Support 866-897-8776)",High,Operational,Installed,Bill Shieh,Bill Shieh,T2_Information_Security_SN,T2_Information_Security_SN,No,No,Tripwire,Prod,11/7 Updated
+893,TurningPoint Audience Response System,Audience response system - Medical Affairs,High,Operational,Installed,,Justin Furniss,T2_Commercial_BPS_SN,T2_Commercial_BPS_SN,No,No,LUL Technology Pty Limited,Prod,Reached Out 9/9
+894,Twilio,Mobile Carrier Lookup,Low,Operational,Installed,Kenny Low,Kenny Low,T2 - IS Comm Global Digital,T2 - IS Comm Global Digital,No,No,Twilio,Prod,
+897,Ultimate Labelling System [ULS-ELS-049],Label Management System for generation of commercial product packaging labels,Medium,Operational,Installed,Daniel Carroll,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Episys,Prod,
+898,UltraDNS,"Name Service provider for corproate domain, jazzpharma.com.",High,Operational,Installed,Patrick Bala,Ashwin Macharla,T3 - Network and Firewall,T3 - Network and Firewall,No,No,Nuestar Security Services,Prod,Reached Out 9/3.
+899,Unily / JazzCentral,Unily / Jazz Central,High,Operational,Installed,Alyza Land,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Unily,Prod,
+901,USP Pamas Version 4.0.1 [PAM-ALE-144],"Liquid particle counter
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+902,UV Winlab ES Version 6.0.4 [UVW-ALE-143],"Spectrophotometer UV-Vis
+",Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,Perkin Elmer,Prod,
+903,Vaisala Version 1.16 [VAI-EDC-142],CO2 Sensor,Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+904,Validity,Email deliverability and list validation,Low,Operational,Installed,Kenny Low,Kenny Low,T2 - IS Comm Global Digital,T2 - IS Comm Global Digital,No,No,Validity,Prod,
+905,Veeam [VEM-DB-123],Corporate and Manufacturing approved backup software,High,Operational,Installed,Patrick Bala,Julian Papandrea,T3 - Storage and Backup Ops,T3 - Storage and Backup Ops,Yes,No,HPE,Prod,
+906,Veeva CDMS Vault [V-EDC-129],Veeva CDMS Vault is a cloud-based Content and Information Management System developed by Veeva Systems Inc.,High,Operational,Installed,Vijay Chundru,Bijal Shah,Application - Veeva CDMS (EDC),Application - GCDO,Yes,No,Dassault Systemes,Prod,
+907,Veeva Clinical Vault - eTMF,"Veeva Systems Inc. has been identified as the preferred provider of a Software as a Service (SaaS) platform that enables GW to migrate current paper-based document management processes and/or other computerised legacy systems to Vaults (applications) that are implemented upon the Veeva platform. Current migration examples include:
+Paper-based Trial Master File management (GW Vault name: eTMF)
+Paper-based Quality Management System and Document Management (GW Vault name: eQMS & Quality Docs)",Medium,Operational,Installed,Andrew Lee,Bijal Shah,Veeva eTMF Business Admin,Veeva eTMF Business Admin,Yes,No,Veeva,Prod,
+910,Veeva CRM - Medical,CRM solution for US Medical Science Liaisons (L-GW),High,Operational,Installed,Gina Florida,Justin Furniss,Application - BI and Data Operations,Application - BI and Data Operations,No,No,Veeva,Prod,
+912,Veeva CTMS (Jazz Integrated Domain) [V-CTMS-108],"Veeva Systems Inc. has been identified as the preferred provider of a Software as a Service (SaaS) platform that enables GW to migrate current paper-based document management processes and/or other computerised legacy systems to Vaults (applications) that are implemented upon the Veeva platform. Current migration examples include:
+Paper-based Trial Master File management (GW Vault name: eTMF)
+Paper-based Quality Management System and Document Management (GW Vault name: eQMS & Quality Docs)",Medium,Operational,Installed,Andrew Lee,Bijal Shah,Application - Veeva CDMS (EDC),CTMS Business Admin,Yes,No,Veeva,Prod,
+913,Veeva eTMF,This application has not been updated for a long time and is missing mandatory and recommend fields.,Medium,Operational,Installed,Andrew Lee,Bijal Shah,Veeva eTMF Business Admin,Veeva eTMF Business Admin,Yes,No,Veeva,Prod,Reached Out 9/3
+914,VEEVA eTMF (Jazz Integrated Domain) [V-ETMF-107],This application has not been updated for a long time and is missing mandatory and recommend fields.,Medium,Operational,Installed,Andrew Lee,Bijal Shah,Veeva eTMF Business Admin,Veeva eTMF Business Admin,Yes,No,Veeva,Prod,
+920,Veeva IREP - iOS (US Medical),US Medical CRM iOS app,Low,Operational,Installed,Gina Florida,Justin Furniss,T2_Commercial_BPS_SN,T2_Commercial_BPS_SN,No,No,Veeva,Prod,Reached Out 9/9
+921,Veeva IREP - iOS (US Sales),US Sales CRM iOS app,High,Operational,Installed,,Justin Furniss,T2_Commercial_BPS_SN,T2_Commercial_BPS_SN,No,No,Veeva,Prod,Reached Out 9/9
+922,Veeva Platform (Jazz Domain) [V-PLTF-091],"Veeva Systems Inc. has been identified as the preferred provider of a Software as a Service (SaaS) platform that enables Jazz to host several R&D and Quality Veeva Applications known as  ""Vaults"" (applications) that are implemented upon the Jazz Veeva platform. Veeva domain:  @Jazzpharma.com
+Current Vaults include:
+Clinical Vault :  Trial Master File (eTMF)  management , Clinical Data Management System (CDMS), Clinical Trial Management System (CTMS)
+Quality Vault:  QualityDocs for GxP & Non-GXP Document Management , eQMS - Quality Manageemnt System covering Change Mgt,  Audit Magt, Capa/Deviation, Lab Investigations, Complaints & Supplier Mgt 
+Regulatory Vault: Regulatory Infromation Management (RIM)  - Submissions Management & Asubmissions Archiving
+Commercila Vault: MedComms & PromoMats",Medium,Operational,Installed,Aishwarya Hemanth,Tracy Kemp,Veeva eTMF Business Admin,Veeva Quality Admin,Yes,No,Veeva Systems Inc,Prod,
+923,Veeva SSU/SC,"SSU -Application to manage Study Start-up activities such as Site Feasibility, Site list generation, Site qualification, Site engagement, Site Selection, Site Activation 
+Site Connect - An application that allows Sponsors and investigational sites to collaborate in a trial by automating the flow of information to and from sites during startup, execution, and closeout. 
+",Medium,Operational,Installed,Andrew Lee,Bijal Shah,CTMS Business Admin,CTMS Business Admin,Yes,No,Veeva Systems Inc,Prod,Reached Out 9/3
+924,Veeva Vault - MedComms,Content mgmt for Medical Communications,High,Operational,Installed,Love Hubbard,Suhas Thakur,Application - JazzVault MedComms,Application - JazzVault MedComms,No,No,Veeva,Prod,
+925,Veeva Vault - MedComms,Content mgmt for Medical Communications,High,Operational,Installed,Love Hubbard,Suhas Thakur,Application - JazzVault MedComms,Application - JazzVault MedComms,No,No,Veeva,Prod,
+928,VeevaCRM-EU-ROW,"Veeva Vault CRM is an enterprise customer relationship management application for biopharma. It connects sales, marketing, medical, and service teams with a single customer database supporting the field, including primary care, specialty care, key accounts, retail sales, and medical science liaisons. It is accessible online via browser and desktop application or with full offline support on the iPad, iPhone, and Android.",High,Operational,Installed,Reza Sekhri,Deborah McQuillan,T2 - IS EU & INT Veeva CRM Commercial,T2 - IS EU & INT Veeva CRM Commercial,No,No,Veeva Systems,Prod,
+929,VERA [QTEST-ALM-056],Part of the QTEST System as a validated system,Low,Operational,Installed,Adrian Horne,Simon Frost,IS_Compliance_Change_Management,IS_Compliance_Change_Management,Yes,No,Tx3 Services,Prod,
+938,Viewpoint Document Management,"Trimble Viewpoint  Construction Document Management System
+Viewpoint For Projects is a construction document management system that simplifies project documentation.",Low,Operational,Pending Install,Amar Gor,Nathan Gillespie,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,No,No,"Trimble, Inc.",Prod,
+939,Vimeo,"video hosting, sharing, services provider, and broadcaster",Medium,Operational,Installed,Benjamin Clark,Kenny Low,T2 - IS Comm Global Digital,T2 - IS Comm Global Digital,No,No,Vimeo,Prod,
+940,Virtual Desktop (AWS),"Virtual Desktop used for request management. When VDI requests are made, this is the default CI used by the catalog workflow.
+Amazon Workspaces Client is the client application that we make use of to connect to these vdi's",Medium,Operational,Installed,David Jackson,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,No,No,AWS,Prod,Virtual Desktop used for request management. When VDI are requests are made this is the default CI.
+942,Vision Service Plan (VSP),Vision insurance (US employees),Medium,Operational,Installed,Christina Bozarth,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Vision Service Plan,Prod,
+944,Vision Tracker-Prod,"Used by Med Affairs - For managing Investigator Sponsored Trials (ISTs) and US-Based Individual Patient Expanded access program
+Used by Corporate Affairs - for Corporate/Charity Grants funding requests and process (grant requests, grant approvals, funding and reconciliations)",Medium,Operational,Installed,Temire Bob-Egbe,Suhas Thakur,L2 - GMA AMS Non-RNCD,L2 - GMA AMS Non-RNCD,No,No,Envision Pharma Group,Prod,Followed Up 10/29
+945,Viva Engage,"A Jazz Social network platform, a Microsoft application formerly known as Yammer and communities.
+Jazzians should be able to access it via Microsoft Teams or a browser.",Low,Operational,Installed,Chris Caulton,Klarisse Duffy,Digital Workplace Solutions,Digital Workplace Solutions,No,No,Microsoft,Prod,
+946,VMware vCenter,"VMware vCenter Server is the centralized management utility for VMware, and is used to manage virtual machines, multiple ESXi hosts, and all dependent components from a single centralized location.",High,Operational,Installed,Patrick Bala,Santhosh Reddy Saddi,T3 - Windows Ops,T3 - Windows Ops,No,No,VMware,Prod,Reached Out 10/28
+947,Vormetric,This application has not been updated for a long time and is missing mandatory and recommend fields.,Low,Operational,Installed,Bill Shieh,Bill Shieh,Security Risk and Compliance,Security Risk and Compliance,No,No,Thales CPL,Prod,11/7: Updated
+950,WalkMe,Walkme is a Browser plugin to support ,Low,Operational,Installed,Dennis Salotti,Jacqueline Flournory,T1 - Service Desk On-Site CAR,T3 - EUC - Client Engineering,No,No,Waters,Prod,
+951,Washington DIDB,The Drug Interaction Database (DIDB) is a knowledgebase to support research &amp; regulatory scientists in decision-making when evaluating PK-based drug interactions and drug safety.,Medium,Operational,Installed,,,Application - GCDO,Application - GCDO,No,No,University of Washington,Prod,Have asked Madhu for data to update the record - have not recieved it yet.
+953,Web Based Epidiolex Digital Dose Calculator [EODC-MDSW-013],Epidiolex Digital Dosing Calculator (EDDC) for computer web browsers allows HCPs to calculate dose based on patient weight and prescribed dosage.,Medium,Operational,Installed,Jim Baker,Sundeep Gohil,T1_US_Helpdesk_SN,T2_Commercial_BPS_SN,Yes,No,Motionstrand,Prod,Followed Up 10/29
+954,WhatFix Player (WhatFix DAP),"WhatFix is a Digital Adoption Platform (DAP) also known as an In-App Widget, which integrates with and displays within Microsoft Teams. Jazz admins can create popups, tooltips, and workflows to support realtime user training and adoption. Users search keywords in WhatFix widgets to find content applicable to their needs.",Medium,Operational,Installed,Chris Caulton,Briege Ibanez,T3 - MS365 Ops,T3 - MS365 Ops,No,No,WhatFix,Prod,Followed up 10/222
+956,WHO-DRL,"Drug Coding Dictionary used to code drugs, used with SAS and  Argus Safety?",High,Operational,Installed,RENI KUNKEL,,Application - PV,Application - PV,Yes,No,WHO,Prod,
+957,Windows 10/11 Updates (GXP),Windows 10/11 Updates applied to GxP devices running Win 10/11 OS,Low,Operational,Installed,Rob Rhoads,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,Yes,No,Microsoft,Prod,Reached Out 9/17
+958,Windows 10/11 Updates (non-GXP),Windows 10/11 Updates applied to non-GxP devices running Win 10/11 OS,Low,Operational,Installed,Rob Rhoads,Rob Rhoads,T1 - Service Desk Cognizant,T3 - EUC - Client Engineering,No,No,Microsoft,Prod,Reached Out 9/17
+961,WinKQCL Version 5.2.1 [WIN-ALE-141],Plate reader,Medium,Operational,Installed,Claudio Verga,Ruggero Sassi,T2_BPS_VG,T2_BPS_VG,Yes,No,,Prod,
+964,Workday,HR - HCM system to manage employee information,High,Operational,Installed,Jimmy Cheng,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,Yes,Workday,Prod,
+980,Xogene Prime,"Xogene Prime is an end-to-end disclosure platform that allows for single authoring across registries; internal data integration; global regulatory tracking; and internal review, approval, and submission workflows.",Low,Operational,Installed,Thomas Chmielewski,Padma Saripally,L2 - GCDO AMS Non-RNCD,L2 - GCDO AMS Non-RNCD,No,No, Xogene,Prod,
+981,XRPD (X-ray Diffractometer),Xray Diffractometer analysis instrument and associated client,Medium,Operational,Installed,Md Mushfiq Hossain Akanda,Alan Booth,T2_BPS_TOQ_KSP,T2_BPS_TOQ_KSP,Yes,No,Bruker,Prod,
+983,Yorktel eBonding,Yorktel eBonding application used by servicenow to create tickets,Low,Operational,Installed,Briege Ibanez,Briege Ibanez,T3 - Unified Communications,T3 - Unified Communications,No,No,York Telecom Corporation,Prod,Followed up 10/222
+984,Zendesk,HR Case Management - AskHR,High,Operational,Installed,Jimmy Cheng,Sarah Snow,T2_IS_Corporate_BPS_SN,T2_IS_Corporate_BPS_SN,No,No,Zendesk,Prod,
+987,Zoom Video Communication,Zoom Cloud services for Conferencing,Medium,Operational,Installed,John Delaney,Briege Ibanez,T3 - Unified Communications,T4 - AV and Unified Communications,No,No,Zoom Video Communications,Prod,
