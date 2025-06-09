@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>2025 Information Services Performance Dashboard</title>
+<style>
+        :root {
+            --red: #f44336;
+            --amber: #ff9800;
+            --green: #4caf50;
+            --blue: #2196f3;
+            --purple: #9c27b0;
+            --dark-blue: #05285a;
+            --orange: #FF8C00;
+            --light-blue: #add8e6;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f7fa;
+            color: #333;
+        }
+        
+        header {
+            background: linear-gradient(90deg, #05285a, #9c27b0, #FF8C00);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            margin: 0;
+            font-size: 2.2em;
+        }
+        
+        .dashboard-container {
+            max-width: 1400px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        
+        .summary-tiles {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .summary-tile {
+            background-color: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        
+        .summary-tile h2 {
+            margin-top: 0;
+            font-size: 1.2em;
+            color: #555;
+        }
+        
+        .summary-tile .value {
+            font-size: 2.5em;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        
+        .progress-container {
+            width: 100%;
+            background-color: #e0e0e0;
+            border-radius: 10px;
+            margin: 10px 0;
+        }
+        
+        .progress-bar {
+            height: 20px;
+            border-radius: 10px;
+            transition: width 0.5s ease-in-out;
+        }
+        
+        .pillar-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .pillar-card {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        
+        .pillar-header {
+            padding: 15px;
+            color: white;
+            font-weight: bold;
+        }
+        
+        .digital-experience {
+            background-color: var(--dark-blue);
+        }
+        
+        .enterprise-data {
+            background-color: var(--purple);
+        }
+        
+        .operations {
+            background-color: var(--blue);
+        }
+        
+        .culture {
+            background-color: var(--orange);
+        }
+        
+        .pillar-body {
+            padding: 15px;
+        }
+        
+        .pillar-progress {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .pillar-progress-label {
+            width: 120px;
+            font-weight: bold;
+        }
+        
+        .pillar-progress-bar-container {
+            flex-grow: 1;
+            background-color: #e0e0e0;
+            border-radius: 5px;
+            height: 15px;
+        }
+        
+        .pillar-progress-bar {
+            height: 15px;
+            border-radius: 5px;
+        }
+        
+        .pillar-status {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 15px;
+        }
+        
+        .pillar-status-label {
+            font-weight: bold;
+        }
+        
+        .status-indicator {
+            width: 80px;
+            padding: 5px 10px;
+            border-radius: 15px;
+            text-align: center;
+            font-weight: bold;
+            color: white;
+        }
+        
+        .red {
+            background-color: var(--red);
+        }
+        
+        .amber {
+            background-color: var(--amber);
+        }
+        
+        .green {
+            background-color: var(--green);
+        }
+        
+        .blue {
+            background-color: var(--blue);
+        }
+        
+        .objectives-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        
+        .objectives-table th, 
+        .objectives-table td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .objectives-table th {
+            background-color: #f5f5f5;
+        }
+        
+        .quarter-status {
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            display: inline-block;
+        }
+        
+        .detailed-view {
+            background-color: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+        }
+        
+        .filters {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .filter {
+            padding: 8px 15px;
+            background-color: #f0f0f0;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        
+        .filter:hover, .filter.active {
+            background-color: #e0e0e0;
+        }
+        
+        .last-updated {
+            text-align: right;
+            font-style: italic;
+            color: #777;
+            margin-top: 20px;
+        }
+        
+        @media (max-width: 768px) {
+            .summary-tiles, .pillar-cards {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+<header>
+<h1>2025 Information Services Performance Dashboard</h1>
+</header>
+<div class="dashboard-container">
+<div class="summary-tiles">
+<div class="summary-tile">
+<h2>Overall Completion</h2>
+<div class="value">49%</div>
+<div class="progress-container">
+<div class="progress-bar" style="width: 49%; background-color: var(--blue);"></div>
+</div>
+</div>
+<div class="summary-tile">
+<h2>On Track Objectives</h2>
+<div class="value" style="color: var(--green);">9</div>
+<div>Out of 21 Total Objectives</div>
+</div>
+<div class="summary-tile">
+<h2>At Risk Objectives</h2>
+<div class="value" style="color: var(--amber);">10</div>
+<div>Requiring Attention</div>
+</div>
+<div class="summary-tile">
+<h2>Critical Objectives</h2>
+<div class="value" style="color: var(--red);">2</div>
+<div>Immediate Action Required</div>
+</div>
+</div>
+<div class="pillar-cards">
+<div class="pillar-card">
+<div class="pillar-header digital-experience">Digital Experience</div>
+<div class="pillar-body">
+<div class="pillar-progress">
+<div class="pillar-progress-label">Progress:</div>
+<div class="pillar-progress-bar-container">
+<div class="pillar-progress-bar" style="width: 54%; background-color: var(--dark-blue);"></div>
+</div>
+<div style="margin-left: 10px;">54%</div>
+</div>
+<div class="pillar-status">
+<div class="pillar-status-label">Overall Status:</div>
+<div class="status-indicator red">CRITICAL</div>
+</div>
+<table class="objectives-table">
+<thead>
+<tr>
+<th>Objective</th>
+<th>Q1</th>
+<th>Q2</th>
+<th>Q3</th>
+<th>Q4</th>
+</tr>
+</thead>
+<tbody><tr><td>Transform patient and healthcare professional experiences</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Enable product launches and regional expansion</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Red"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Modernize clinical trial experience</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Ensure regulatory compliance through robust digital capabilities</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Drive supply chain and corporate function agility</td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr></tbody>
+</table>
+</div>
+</div>
+<div class="pillar-card">
+<div class="pillar-header enterprise-data">Enterprise Data Analytics/AI</div>
+<div class="pillar-body">
+<div class="pillar-progress">
+<div class="pillar-progress-label">Progress:</div>
+<div class="pillar-progress-bar-container">
+<div class="pillar-progress-bar" style="width: 43%; background-color: var(--purple);"></div>
+</div>
+<div style="margin-left: 10px;">43%</div>
+</div>
+<div class="pillar-status">
+<div class="pillar-status-label">Overall Status:</div>
+<div class="status-indicator red">CRITICAL</div>
+</div>
+<table class="objectives-table">
+<thead>
+<tr>
+<th>Objective</th>
+<th>Q1</th>
+<th>Q2</th>
+<th>Q3</th>
+<th>Q4</th>
+</tr>
+</thead>
+<tbody><tr><td>Build and maintain a scalable data science ecosystem</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Establish an enterprise-wide data governance framework</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Provide self-service analytics platforms</td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Red"></span></td><td><span class="quarter-status Red"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Support value-driven AI innovation</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Enhance performance reporting and analytics capabilities</td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Provide strategic business support of advanced modeling</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Building Integrated enterprise data analytics capabilities</td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status nan"></span></td></tr></tbody>
+</table>
+</div>
+</div>
+<div class="pillar-card">
+<div class="pillar-header operations">Operations</div>
+<div class="pillar-body">
+<div class="pillar-progress">
+<div class="pillar-progress-label">Progress:</div>
+<div class="pillar-progress-bar-container">
+<div class="pillar-progress-bar" style="width: 54%; background-color: var(--blue);"></div>
+</div>
+<div style="margin-left: 10px;">54%</div>
+</div>
+<div class="pillar-status">
+<div class="pillar-status-label">Overall Status:</div>
+<div class="status-indicator amber">AT RISK</div>
+</div>
+<table class="objectives-table">
+<thead>
+<tr>
+<th>Objective</th>
+<th>Q1</th>
+<th>Q2</th>
+<th>Q3</th>
+<th>Q4</th>
+</tr>
+</thead>
+<tbody><tr><td>Ensure business continuity through secure reliable systems</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Drive operational excellence to accelerate value delivery</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Accelerate value delivery by identifying and removing bottlenecks</td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Partner proactively with business units to drive technology-enabled innovation</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Align technology roadmaps and priorities with corporate initiatives</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Articulate and measure technology's contribution to business outcomes</td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr></tbody>
+</table>
+</div>
+</div>
+<div class="pillar-card">
+<div class="pillar-header culture">Culture</div>
+<div class="pillar-body">
+<div class="pillar-progress">
+<div class="pillar-progress-label">Progress:</div>
+<div class="pillar-progress-bar-container">
+<div class="pillar-progress-bar" style="width: 47%; background-color: var(--orange);"></div>
+</div>
+<div style="margin-left: 10px;">47%</div>
+</div>
+<div class="pillar-status">
+<div class="pillar-status-label">Overall Status:</div>
+<div class="status-indicator amber">AT RISK</div>
+</div>
+<table class="objectives-table">
+<thead>
+<tr>
+<th>Objective</th>
+<th>Q1</th>
+<th>Q2</th>
+<th>Q3</th>
+<th>Q4</th>
+</tr>
+</thead>
+<tbody><tr><td>Modernize IS organization towards Digital &amp; Enterprise Capabilities function</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Digital Advisory Network – foster outside-in insight leveraging external partnerships</td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr><tr><td>Digital Talent Framework – evolve leadership workforce and talent pipeline</td><td><span class="quarter-status Amber"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status Green"></span></td><td><span class="quarter-status nan"></span></td></tr></tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="detailed-view">
+<h2>Objective Status Details</h2>
+<div class="filters">
+<div class="filter active">All Pillars</div>
+<div class="filter">Digital Experience</div>
+<div class="filter">Enterprise Data Analytics/AI</div>
+<div class="filter">Operations</div>
+<div class="filter">Culture</div>
+<div class="filter" style="background-color: var(--red); color: white;">Critical</div>
+<div class="filter" style="background-color: var(--amber); color: white;">At Risk</div>
+<div class="filter" style="background-color: var(--green); color: white;">On Track</div>
+</div>
+<table class="objectives-table">
+<thead>
+<tr>
+<th>Pillar</th>
+<th>Objective</th>
+<th>Progress</th>
+<th>Status</th>
+<th>Owner</th>
+<th>Last Update</th>
+</tr>
+</thead>
+<tbody><tr><td>Enterprise Data Analytics/AI</td><td>Provide self-service analytics platforms</td><td><div class="progress-container" style="margin: 0;"><div class="progress-bar" style="width: 25%; background-color: var(--red);"></div></div></td><td><div class="status-indicator red">CRITICAL</div></td><td>Sarah Johnson</td><td>Feb 28, 2025</td></tr><tr><td>Digital Experience</td><td>Enable product launches and regional expansion</td><td><div class="progress-container" style="margin: 0;"><div class="progress-bar" style="width: 35%; background-color: var(--red);"></div></div></td><td><div class="status-indicator red">CRITICAL</div></td><td>Michael Chen</td><td>Mar 01, 2025</td></tr><tr><td>Enterprise Data Analytics/AI</td><td>Enhance performance reporting and analytics capabilities</td><td><div class="progress-container" style="margin: 0;"><div class="progress-bar" style="width: 38%; background-color: var(--amber);"></div></div></td><td><div class="status-indicator amber">AT RISK</div></td><td>James Wilson</td><td>Feb 26, 2025</td></tr><tr><td>Enterprise Data Analytics/AI</td><td>Build and maintain a scalable data science ecosystem</td><td><div class="progress-container" style="margin: 0;"><div class="progress-bar" style="width: 40%; background-color: var(--amber);"></div></div></td><td><div class="status-indicator amber">AT RISK</div></td><td>Lisa Brown</td><td>Mar 03, 2025</td></tr><tr><td>Enterprise Data Analytics/AI</td><td>Building Integrated enterprise data analytics capabilities</td><td><div class="progress-container" style="margin: 0;"><div class="progress-bar" style="width: 40%; background-color: var(--amber);"></div></div></td><td><div class="status-indicator amber">AT RISK</div></td><td>David Williams</td><td>Feb 25, 2025</td></tr><tr><td>Operations</td><td>Articulate and measure technology's contribution to business outcomes</td><td><div class="progress-container" style="margin: 0;"><div class="progress-bar" style="width: 42%; background-color: var(--amber);"></div></div></td><td><div class="status-indicator amber">AT RISK</div></td><td>Jennifer Lee</td><td>Mar 02, 2025</td></tr><tr><td>Digital Experience</td><td>Drive supply chain and corporate function agility</td><td><div class="progress-container" style="margin: 0;"><div class="progress-bar" style="width: 45%; background-color: var(--amber);"></div></div></td><td><div class="status-indicator amber">AT RISK</div></td><td>Daniel Johnson</td><td>Feb 27, 2025</td></tr><tr><td>Enterprise Data Analytics/AI</td><td>Support value-driven AI innovation</td><td><div class="progress-container" style="margin: 0;"><div class="progress-bar" style="width: 45%; background-color: var(--amber);"></div></div></td><td><div class="status-indicator amber">AT RISK</div></td><td>Alex Thompson</td><td>Mar 02, 2025</td></tr><tr><td>Culture</td><td>Modernize IS organization towards Digital &amp; Enterprise Capabilities function</td><td><div class="progress-container" style="margin: 0;"><div class="progress-bar" style="width: 45%; background-color: var(--amber);"></div></div></td><td><div class="status-indicator amber">AT RISK</div></td><td>Kevin Moore</td><td>Mar 04, 2025</td></tr><tr><td>Operations</td><td>Drive operational excellence to accelerate value delivery</td><td><div class="progress-container" style="margin: 0;"><div class="progress-bar" style="width: 52%; background-color: var(--amber);"></div></div></td><td><div class="status-indicator amber">AT RISK</div></td><td>Ryan Taylor</td><td>Mar 01, 2025</td></tr></tbody>
+</table>
+</div>
+<div class="last-updated">Last updated: March 12, 2025</div>
+<script>
+            // Implementation of filtering functionality
+            document.querySelectorAll('.filter').forEach(filter => {
+                filter.addEventListener('click', function() {
+                    // Update active filter
+                    document.querySelectorAll('.filter').forEach(f => f.classList.remove('active'));
+                    this.classList.add('active');
+                    
+                    const filterText = this.textContent.trim();
+                    const tableRows = document.querySelector('.detailed-view .objectives-table tbody').rows;
+                    
+                    // Loop through all rows and apply filtering
+                    for (let i = 0; i < tableRows.length; i++) {
+                        const row = tableRows[i];
+                        const pillar = row.cells[0].textContent.trim();
+                        const status = row.cells[3].textContent.trim();
+                        
+                        if (filterText === 'All Pillars') {
+                            row.style.display = '';
+                        } else if (filterText === 'Critical' && status === 'CRITICAL') {
+                            row.style.display = '';
+                        } else if (filterText === 'At Risk' && status === 'AT RISK') {
+                            row.style.display = '';
+                        } else if (filterText === 'On Track' && status === 'ON TRACK') {
+                            row.style.display = '';
+                        } else if (filterText === pillar || filterText.includes(pillar)) {
+                            row.style.display = '';
+                        } else {
+                            row.style.display = 'none';
+                        }
+                    }
+                });
+            });
+        </script>
+</div>
+</body>
+</html>
